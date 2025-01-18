@@ -1,0 +1,16 @@
+{
+    "data": {
+        "urlResolver": {
+            "__typename": "ExternalUrl",
+            "strong_id__": "1090036199893470731",
+            "id": "NjQyMTgzOTU5MjA4MTA3Omh0dHBzXGEvL3d3dy5mYWNlYm9vay5jb20vcmVlbC83MjY3MzM0ODkzMzgxNDk4Ojo6Og=="
+        }
+    },
+    "extensions": {
+        "server_metadata": {
+            "request_start_time_ms": 1708474102119,
+            "time_at_flush_ms": 1708474102148
+        },
+        "is_final": true
+    }
+}

@@ -1,0 +1,183 @@
+{
+    "kind": "Listing",
+    "data": {
+        "after": null,
+        "dist": 1,
+        "modhash": "",
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "TheTrumpZone",
+                    "selftext": "",
+                    "user_reports": [],
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "Barack Obama 'thinks Joe Biden could LOSE the White House next year', with president's polls continuing to tank as worries over his age and cost of living crisis persist",
+                    "link_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": "Domestic Policy"
+                        }
+                    ],
+                    "subreddit_name_prefixed": "r/TheTrumpZone",
+                    "hidden": false,
+                    "pwls": null,
+                    "link_flair_css_class": "",
+                    "downs": 0,
+                    "thumbnail_height": 78,
+                    "top_awarded_type": null,
+                    "parent_whitelist_status": null,
+                    "hide_score": false,
+                    "name": "t3_18klukv",
+                    "quarantine": false,
+                    "link_flair_text_color": "light",
+                    "upvote_ratio": 0.93,
+                    "author_flair_background_color": "transparent",
+                    "ups": 79,
+                    "domain": "dailymail.co.uk",
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": "59942028-a63b-11eb-b194-0e4ac9bf7bb7",
+                    "is_original_content": false,
+                    "author_fullname": "t2_vxlbvmf6",
+                    "secure_media": null,
+                    "is_reddit_media_domain": false,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": "Domestic Policy",
+                    "can_mod_post": false,
+                    "score": 79,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": true,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/iEengjQ9QcsKt4C9o0n-uKl_ks-AOnj561ZcJy90zhs.jpg",
+                    "edited": false,
+                    "author_flair_css_class": "level 6",
+                    "author_flair_richtext": [
+                        {
+                            "e": "text",
+                            "t": " "
+                        }
+                    ],
+                    "gildings": {},
+                    "post_hint": "link",
+                    "content_categories": null,
+                    "is_self": false,
+                    "subreddit_type": "public",
+                    "created": 1702832804.0,
+                    "link_flair_type": "richtext",
+                    "wls": null,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "richtext",
+                    "total_awards_received": 0,
+                    "allow_live_comments": false,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://www.dailymail.co.uk/news/article-12872647/barack-obama-concern-joe-biden-2024-election.html",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?auto=webp&amp;s=da2033bddc93ac442b5cb7a5f2f9824a86e0676b",
+                                    "width": 1200,
+                                    "height": 675
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=ecfd28bbb7c4a5f24ccfdffa79e038a47d7425c6",
+                                        "width": 108,
+                                        "height": 60
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=e0e23d60df96aece7a48c253e2774dc2d972dd1a",
+                                        "width": 216,
+                                        "height": 121
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e26ad5fe3d6b01cb708e59807749fe8369b932dd",
+                                        "width": 320,
+                                        "height": 180
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=46a25fbaa353b524afb5e1462d7fa966b188e88b",
+                                        "width": 640,
+                                        "height": 360
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=3f7b8b718d75025bf5de9aa56e85cfd9d503c379",
+                                        "width": 960,
+                                        "height": 540
+                                    },
+                                    {
+                                        "url": "https://external-preview.redd.it/mofGaFgVXSjmZ95Mw6muzbz1-8ttIdM1wXv6oVKMyo4.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=438bb1cdda0628d3e2f15368e461f068775ab605",
+                                        "width": 1080,
+                                        "height": 607
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "pugme6K7jwlQ20oClOj1oiwrdsyTBmlypTaPKiPEr4s"
+                            }
+                        ],
+                        "enabled": false
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "link_flair_template_id": "79a4906a-14ea-11eb-956d-0e8dc247a47d",
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": " ",
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "mod_note": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_3ad1fs",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "num_reports": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "#ded600",
+                    "id": "18klukv",
+                    "is_robot_indexable": true,
+                    "num_duplicates": 5,
+                    "report_reasons": null,
+                    "author": "Next-Mobile-9632",
+                    "discussion_type": null,
+                    "num_comments": 7,
+                    "send_replies": true,
+                    "media": null,
+                    "contest_mode": false,
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": "dark",
+                    "permalink": "/r/TheTrumpZone/comments/18klukv/barack_obama_thinks_joe_biden_could_lose_the/",
+                    "whitelist_status": null,
+                    "stickied": false,
+                    "url": "https://www.dailymail.co.uk/news/article-12872647/barack-obama-concern-joe-biden-2024-election.html",
+                    "subreddit_subscribers": 28168,
+                    "created_utc": 1702832804.0,
+                    "num_crossposts": 0,
+                    "mod_reports": [],
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}

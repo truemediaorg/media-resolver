@@ -1,0 +1,103 @@
+{
+    "id": "111772535207072024",
+    "created_at": "2024-01-17T17:45:37.706Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.online/users/GregPalast/statuses/111772535207072024",
+    "url": "https://mastodon.online/@GregPalast/111772535207072024",
+    "replies_count": 9,
+    "reblogs_count": 135,
+    "favourites_count": 109,
+    "edited_at": null,
+    "content": "<p>Like Wile E Coyote, the Democratic Party of Florida gets hit with a vicious, racist scrub of the voter rolls every two years and like Wile E, they keep walking under the falling anvil, surprised when they\u2019re creamed again.</p><p>When I uncovered the first illegal purge of voters in 2000 for The Guardian, it was a shock. Now, not to be prepared to get the purge lists and run a re-registration campaign is simply the crime of political malpractice.</p>",
+    "reblog": null,
+    "application": {
+        "name": "Web",
+        "website": null
+    },
+    "account": {
+        "id": "109295804973383616",
+        "username": "GregPalast",
+        "acct": "GregPalast",
+        "display_name": "GregPalast",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-06T00:00:00.000Z",
+        "note": "<p>Investigative journalist and author of the NY Times bestsellers Armed Madhouse + The Best Democracy Money Can Buy. Catch my reports at: <a href=\"http://GregPalast.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">GregPalast.com</span><span class=\"invisible\"></span></a></p><p>Watch my new documentary, Vigilante: Georgia\u2019s Voter Suppression Hitman \u2014 narrated by Rosario Dawson \u2014 which exposes the most brazen, racist attack on voting rights yet: <a href=\"http://vigilantemovie.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">vigilantemovie.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.online/@GregPalast",
+        "uri": "https://mastodon.online/users/GregPalast",
+        "avatar": "https://files.mastodon.online/accounts/avatars/109/295/804/973/383/616/original/d0f44c08e00f87a9.jpeg",
+        "avatar_static": "https://files.mastodon.online/accounts/avatars/109/295/804/973/383/616/original/d0f44c08e00f87a9.jpeg",
+        "header": "https://files.mastodon.online/accounts/headers/109/295/804/973/383/616/original/045f786a8bb5828a.jpg",
+        "header_static": "https://files.mastodon.online/accounts/headers/109/295/804/973/383/616/original/045f786a8bb5828a.jpg",
+        "followers_count": 2355,
+        "following_count": 455,
+        "statuses_count": 238,
+        "last_status_at": "2024-01-17",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "GregPalast.com",
+                "value": "<a href=\"https://www.gregpalast.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">gregpalast.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "VigilanteMovie.com",
+                "value": "<a href=\"http://vigilantemovie.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">vigilantemovie.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PalastInvestigativeFund.org",
+                "value": "<a href=\"http://www.palastinvestigativefund.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">palastinvestigativefund.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://gregpalast.podbean.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gregpalast.podbean.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [
+        {
+            "id": "111772534435027419",
+            "type": "image",
+            "url": "https://files.mastodon.online/media_attachments/files/111/772/534/435/027/419/original/40b9616c3ee628ad.jpg",
+            "preview_url": "https://files.mastodon.online/media_attachments/files/111/772/534/435/027/419/small/40b9616c3ee628ad.jpg",
+            "remote_url": null,
+            "preview_remote_url": null,
+            "text_url": null,
+            "meta": {
+                "original": {
+                    "width": 1600,
+                    "height": 1600,
+                    "size": "1600x1600",
+                    "aspect": 1.0
+                },
+                "small": {
+                    "width": 480,
+                    "height": 480,
+                    "size": "480x480",
+                    "aspect": 1.0
+                }
+            },
+            "description": null,
+            "blurhash": "UFQ0aPjY?vjs0K%2IoV@yEMxRkt6tmIAoMof"
+        }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+}

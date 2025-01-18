@@ -1,0 +1,4105 @@
+{
+  "data": {
+    "node": {
+      "__typename": "Story",
+      "strong_id__": "-8416464198292325761",
+      "cache_id": "-8416464198292325761",
+      "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE=",
+      "anonymous_profile_header_nt_action": null,
+      "header_accent_color": null,
+      "paid_partnership_label_tooltip": null,
+      "to": null,
+      "subtitle": null,
+      "creation_time": 1688598059,
+      "backdated_time": null,
+      "url": "https://m.facebook.com/story.php?story_fbid=10115186488482141&id=4",
+      "display_time_block_info": null,
+      "titleFromRenderLocation": null,
+      "feed_mobile_title": null,
+      "message_markdown_html": null,
+      "message_richtext": [],
+      "message": {
+        "text": "Threads is here. Let's do this. 🔥",
+        "ranges": [],
+        "delight_ranges": [],
+        "color_ranges": [],
+        "image_ranges": []
+      },
+      "suffix": null,
+      "is_fox_sharable": false,
+      "post_id": "10115186488482141",
+      "actors": [
+        {
+          "__typename": "User",
+          "strong_id__": "4",
+          "id": "4",
+          "friendship_status": "CANNOT_REQUEST",
+          "gender": "MALE",
+          "name": "Mark Zuckerberg",
+          "profile_picture": {
+            "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/312257846_10114737758665291_6588360857015169674_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=1&ccb=1-7&_nc_sid=7206a8&_nc_ohc=6mMUJN-149sAX-vF8tR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCsp_Ian4EERvZ3VTazA4JSLRFsFkIn3cl0d2Xe5bW-Wg&oe=64B3175E",
+            "width": 113,
+            "height": 112
+          },
+          "is_additional_profile_plus": false,
+          "delegate_page": null,
+          "is_work_user": false,
+          "work_foreign_entity_info": null,
+          "work_info": null,
+          "is_verified": true,
+          "profile_badge": null,
+          "subscribe_status": "CAN_SUBSCRIBE",
+          "secondary_subscribe_status": "REGULAR_FOLLOW",
+          "short_name": "Mark",
+          "is_favorite": false,
+          "is_page_or_profile_plus_actor": false,
+          "url": "https://m.facebook.com/zuck",
+          "story_bucket": {
+            "nodes": [
+              {
+                "id": "1461420177232682",
+                "latest_thread_creation_time": 1688665665,
+                "is_bucket_seen_by_viewer": true,
+                "threads": {
+                  "is_empty": true
+                },
+                "is_bucket_owned_by_viewer": false,
+                "camera_post_type": "STORY"
+              }
+            ]
+          }
+        }
+      ],
+      "collaborators": [],
+      "tracking": "{\"mf_story_key\":\"10115186488482141\",\"top_level_post_id\":\"10115186488482141\",\"tl_objid\":\"10115186488482141\",\"content_owner_id_new\":4,\"throwback_story_fbid\":\"10115186488482141\",\"photo_id\":\"10115186488442221\",\"story_location\":9,\"story_attachment_style\":\"photo\",\"sty\":22,\"ent_attachement_type\":\"MediaAttachment\",\"actrs\":\"4\",\"ftmd_400706\":\"111112l\"}",
+      "privacy_label": "Public",
+      "xposted_destination_apps": [],
+      "privacy_scope": {
+        "label": "Public",
+        "description": "Public",
+        "extended_description": "Anyone on or off Facebook",
+        "type": "everyone",
+        "icon": {
+          "uri": "https://static.xx.fbcdn.net/rsrc.php/v3/yp/r/--soLpMIbaJ.png",
+          "name": "everyone",
+          "width": 10,
+          "height": 11
+        },
+        "can_viewer_edit": false,
+        "education_info": {
+          "reshare_education_info": null,
+          "tag_expansion_education": {
+            "eligible_for_education": false,
+            "show_active_education": true,
+            "education_content": null
+          },
+          "fullindex_education_info": {
+            "eligible_for_education": false,
+            "show_active_education": false,
+            "education_content": null,
+            "help_center_url": null
+          }
+        },
+        "privacy_options": {
+          "edges": []
+        },
+        "icon_image": {
+          "name": "everyone"
+        },
+        "extra_payload": null
+      },
+      "save_info": {
+        "is_offer_like_savable": false,
+        "viewer_save_state": "NOT_SAVED",
+        "story_save_type": "POST",
+        "story_save_nux_type": null,
+        "story_save_nux_min_consume_duration": null,
+        "story_save_nux_max_consume_duration": null,
+        "savable": {
+          "__typename": "Photo",
+          "strong_id__": "10115186488442221",
+          "id": "10115186488442221",
+          "viewer_saved_state": "NOT_SAVED",
+          "savable_default_category": "LINK",
+          "is_spherical": false
+        }
+      },
+      "legacy_api_story_id": "4_10115186488482141",
+      "hideable_token": "MzQwNDQ1tDAzsbAwsTAyNDGsc80rCS5JLCktdi5KTSzJzM8LLskvqqyrM6mrM6gDAA",
+      "negative_feedback_actions": {
+        "num_actions_above_fold": null,
+        "num_actions_folded": null,
+        "edges": [
+          {
+            "node": {
+              "cache_id": "-7458250652757316124",
+              "title": {
+                "text": "Hide post"
+              },
+              "subtitle": {
+                "text": "See fewer posts like this."
+              },
+              "negative_feedback_action_type": "HIDE",
+              "negative_feedback_action_icon_name": "hide",
+              "native_template_view": null,
+              "target_entity": null,
+              "target_entity_type": null,
+              "feedback_tags": [],
+              "url": null
+            }
+          },
+          {
+            "node": {
+              "cache_id": "-3677574651683387586",
+              "title": {
+                "text": "Report post"
+              },
+              "subtitle": {
+                "text": "We won't let Mark know who reported this."
+              },
+              "negative_feedback_action_type": "DONT_LIKE",
+              "negative_feedback_action_icon_name": "hide",
+              "native_template_view": null,
+              "target_entity": null,
+              "target_entity_type": null,
+              "feedback_tags": [],
+              "url": null
+            }
+          },
+          {
+            "node": {
+              "cache_id": "3690153202284306173",
+              "title": {
+                "text": "Snooze Mark for 30 days"
+              },
+              "subtitle": {
+                "text": "Temporarily stop seeing posts."
+              },
+              "negative_feedback_action_type": "SNOOZE_ACTOR",
+              "negative_feedback_action_icon_name": "clock",
+              "native_template_view": null,
+              "target_entity": {
+                "__typename": "User",
+                "strong_id__": "4",
+                "id": "4"
+              },
+              "target_entity_type": "PEOPLE",
+              "feedback_tags": [],
+              "url": null
+            }
+          },
+          {
+            "node": {
+              "cache_id": "3196709074140170394",
+              "title": {
+                "text": "Hide all from Mark"
+              },
+              "subtitle": {
+                "text": "Stop seeing posts from this person."
+              },
+              "negative_feedback_action_type": "UNSUBSCRIBE",
+              "negative_feedback_action_icon_name": "unfollow",
+              "native_template_view": null,
+              "target_entity": {
+                "__typename": "User",
+                "strong_id__": "4",
+                "id": "4"
+              },
+              "target_entity_type": "PEOPLE",
+              "feedback_tags": [],
+              "url": null
+            }
+          },
+          {
+            "node": {
+              "cache_id": "-3535867629348560458",
+              "title": {
+                "text": "Report post"
+              },
+              "subtitle": {
+                "text": "We won't let Mark know who reported this."
+              },
+              "negative_feedback_action_type": "CHEVRON_FEEDBACK_ENTRYPOINT",
+              "negative_feedback_action_icon_name": "feedback",
+              "native_template_view": null,
+              "target_entity": null,
+              "target_entity_type": null,
+              "feedback_tags": [],
+              "url": null
+            }
+          }
+        ]
+      },
+      "rapid_reporting_prompt": {
+        "cache_id": "767867294208121000",
+        "enabled": true
+      },
+      "message_truncation_line_limit": 7,
+      "is_page_or_profile_plus_post": false,
+      "frx_content_overlay_prompt": null,
+      "multilingual_author_dialects": [],
+      "author_translations": [],
+      "translatability_for_viewer": {
+        "source_dialect": "en_XX",
+        "source_dialect_name": "English",
+        "target_dialect": "en_XX",
+        "target_dialect_name": "English",
+        "translation_type": "NO_TRANSLATION",
+        "translation": null
+      },
+      "sponsored_data": null,
+      "attachments": [
+        {
+          "action_links": [],
+          "title": "",
+          "subtitle": null,
+          "snippet": null,
+          "title_with_entities": {
+            "text": "",
+            "ranges": [],
+            "delight_ranges": [],
+            "color_ranges": []
+          },
+          "description": {
+            "image_ranges": [],
+            "text": "Threads is here. Let's do this. 🔥",
+            "ranges": [],
+            "delight_ranges": []
+          },
+          "xy_tags_label": null,
+          "url": "https://m.facebook.com/photo.php?fbid=10115186488442221&id=4&set=a.529237706231",
+          "source": null,
+          "style_list": [
+            "photo",
+            "games_app",
+            "fallback"
+          ],
+          "media_reference_token": "pcb.10115186488482141",
+          "attachment_properties": [
+            {
+              "key": "photoset_reference_token",
+              "title": null,
+              "value": {
+                "text": "pcb.10115186488482141",
+                "ranges": [],
+                "delight_ranges": [],
+                "color_ranges": [],
+                "aggregated_ranges": []
+              },
+              "type": "string"
+            },
+            {
+              "key": "layout_x",
+              "title": null,
+              "value": {
+                "text": "0",
+                "ranges": [],
+                "delight_ranges": [],
+                "color_ranges": [],
+                "aggregated_ranges": []
+              },
+              "type": "int"
+            },
+            {
+              "key": "layout_y",
+              "title": null,
+              "value": {
+                "text": "0",
+                "ranges": [],
+                "delight_ranges": [],
+                "color_ranges": [],
+                "aggregated_ranges": []
+              },
+              "type": "int"
+            },
+            {
+              "key": "layout_w",
+              "title": null,
+              "value": {
+                "text": "1",
+                "ranges": [],
+                "delight_ranges": [],
+                "color_ranges": [],
+                "aggregated_ranges": []
+              },
+              "type": "int"
+            },
+            {
+              "key": "layout_h",
+              "title": null,
+              "value": {
+                "text": "1",
+                "ranges": [],
+                "delight_ranges": [],
+                "color_ranges": [],
+                "aggregated_ranges": []
+              },
+              "type": "int"
+            }
+          ],
+          "tracking": "{\"ftmd_400706\":\"111112l\"}",
+          "target": {
+            "__typename": "Photo",
+            "strong_id__": "10115186488442221",
+            "id": "10115186488442221",
+            "feedback": {
+              "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+              "if_viewer_can_see_voice_switcher": null,
+              "can_page_viewer_invite_post_likers": null,
+              "can_viewer_react": true,
+              "can_viewer_comment": true,
+              "can_viewer_comment_in_private": false,
+              "can_viewer_comment_with_gif": true,
+              "can_viewer_comment_with_photo": true,
+              "can_viewer_comment_with_sticker": true,
+              "can_viewer_comment_with_video": true,
+              "can_viewer_comment_with_music_no_user_qe_check": false,
+              "if_viewer_can_meme_remix": null,
+              "if_viewer_can_comment_with_fact": null,
+              "can_viewer_set_comment_moderation_filter": false,
+              "is_hide_transparency_enabled_for_actor": false,
+              "can_viewer_subscribe": true,
+              "can_viewer_comment_as_question": false,
+              "comment_moderation_filter_restriction_notice": null,
+              "associated_group": null,
+              "cqa_answer_count": null,
+              "does_viewer_like": false,
+              "feedback_target_type": "OTHER",
+              "is_viewer_subscribed": false,
+              "is_community_qa_post": false,
+              "is_community_qna_ish_post": false,
+              "legacy_api_post_id": "10115186488482141",
+              "viewer_acts_as_page": null,
+              "comments_mirroring_domain": null,
+              "owning_profile": {
+                "__typename": "User",
+                "strong_id__": "4",
+                "id": "4",
+                "name": "Mark Zuckerberg"
+              },
+              "can_see_voice_indicator": false,
+              "viewer_current_actor": {
+                "__typename": "User",
+                "strong_id__": "100092534187022",
+                "id": "100092534187022",
+                "name": "Lesley Jauregui",
+                "short_name": "Lesley",
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/347429477_266192475941589_8344099726722483566_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=DnCRYToxEbwAX_ubies&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfD5AMJPcyTtP-gPChHTr1uI0hhn3UCn7x_xHKf6NPiAAQ&oe=64B339EB"
+                }
+              },
+              "custom_sticker_pack": null,
+              "custom_sticker_pack_nux_content": null,
+              "can_viewer_see_community_award_button_in_post_ufi": null,
+              "default_comment_ordering": "ranked_threaded",
+              "top_level_comments": {
+                "count": 16189,
+                "total_count": 19693
+              },
+              "likers": {
+                "count": 124386
+              },
+              "reshares": {
+                "count": 32167
+              },
+              "reactors": {
+                "count": 195470
+              },
+              "top_reactions": {
+                "edges": [
+                  {
+                    "reaction_count": 124386,
+                    "node": {
+                      "id": "1635855486666999"
+                    }
+                  },
+                  {
+                    "reaction_count": 49260,
+                    "node": {
+                      "id": "1678524932434102"
+                    }
+                  },
+                  {
+                    "reaction_count": 15897,
+                    "node": {
+                      "id": "478547315650144"
+                    }
+                  },
+                  {
+                    "reaction_count": 3568,
+                    "node": {
+                      "id": "115940658764963"
+                    }
+                  },
+                  {
+                    "reaction_count": 2024,
+                    "node": {
+                      "id": "613557422527858"
+                    }
+                  },
+                  {
+                    "reaction_count": 213,
+                    "node": {
+                      "id": "444813342392137"
+                    }
+                  },
+                  {
+                    "reaction_count": 122,
+                    "node": {
+                      "id": "908563459236466"
+                    }
+                  }
+                ]
+              },
+              "viewer_feedback_reaction_info": null,
+              "supported_reaction_infos": [
+                {
+                  "id": "1635855486666999"
+                },
+                {
+                  "id": "1678524932434102"
+                },
+                {
+                  "id": "613557422527858"
+                },
+                {
+                  "id": "115940658764963"
+                },
+                {
+                  "id": "478547315650144"
+                },
+                {
+                  "id": "908563459236466"
+                },
+                {
+                  "id": "444813342392137"
+                }
+              ],
+              "important_reactors": {
+                "nodes": []
+              },
+              "viewer_acts_as_person": {
+                "id": "100092534187022",
+                "name": "Lesley Jauregui"
+              }
+            },
+            "android_urls": [],
+            "application": null,
+            "profile_picture": null,
+            "cover_photo": null,
+            "social_context": null,
+            "media": null,
+            "image": {
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_p64x64_q65&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfAqJfelQvizeDpATIbqrDmG8qcugGsCc1XhqlIdvLAIEA&oe=64B30BD8",
+              "width": 64,
+              "height": 80
+            },
+            "school": null,
+            "employer": null,
+            "creation_story": {
+              "cache_id": "-1082128891928703865",
+              "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE="
+            },
+            "owner": {
+              "__typename": "User",
+              "strong_id__": "4",
+              "id": "4",
+              "name": "Mark Zuckerberg"
+            }
+          },
+          "associated_application": null,
+          "deduplication_key": "3c1aad8705e98d581bb32d5e998df1ea",
+          "instagram_user": null,
+          "use_carousel_infinite_scroll": false,
+          "crawled_static_resources": [],
+          "third_party_media_info": null,
+          "is_mute_music_ad": false,
+          "style_infos": [
+            {
+              "__typename": "CollagePhotoAttachmentStyleInfo",
+              "layout_x": 0,
+              "layout_y": 0,
+              "layout_width": 1,
+              "layout_height": 1,
+              "strong_id__": null
+            },
+            {
+              "__typename": "GamesAppStoryAttachmentStyleInfo"
+            },
+            {
+              "__typename": "FeedStandardAttachmentStyleInfo",
+              "enable_body_text": false,
+              "button_styles": [
+                "SECONDARY",
+                "MICRO"
+              ],
+              "headline_styles": [
+                "BODY_3_LINK"
+              ],
+              "metaline_styles": [
+                "LOWER_CASE"
+              ],
+              "facepile_styles": [
+                "FACE_SIZE_20"
+              ]
+            },
+            {
+              "__typename": "FutureOfFeedAttachmentStyleInfo",
+              "should_show_primary_blue_cta_on_dwell": false,
+              "primary_blue_cta_dwell_time_ms": null,
+              "should_show_color_footer_on_dwell": false,
+              "color_footer_dwell_time_ms": null,
+              "attachment_footer_color": null
+            }
+          ],
+          "media": {
+            "__typename": "Photo",
+            "strong_id__": "10115186488442221",
+            "id": "10115186488442221",
+            "image": {
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCAimg_KxwFS_B5lu-LStHrqCB3tJ2d2L7DcLkLf-nQQg&oe=64B30BD8",
+              "width": 768,
+              "height": 960
+            },
+            "imageLow": {
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_p370x247_q65&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfA8B2ZY3TvwCVSK9Pa-E-ABkJR1ZrrQ5NdJ4fJzC61mFA&oe=64B30BD8",
+              "width": 370,
+              "height": 463
+            },
+            "imageMedium": {
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_p552x414_q65&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDTPeaAZ5xvm9uM4ERwoXj_gNDkm9Lvi3XBRTZFiPyTyg&oe=64B30BD8",
+              "width": 552,
+              "height": 690
+            },
+            "imageHigh": {
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_q65_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBoN4nkhtPY0fq6EwrRZ7SYMNgRjIQgFo1CimxGUUmIVQ&oe=64B30BD8",
+              "width": 1080,
+              "height": 1350
+            },
+            "focus": {
+              "x": 0.5,
+              "y": 0.33
+            },
+            "should_block_screenshot": false,
+            "android_urls": [],
+            "open_graph_action": null,
+            "message": null,
+            "imageLargeAspect": {
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_p480x480_q65&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCOi8lDhItnaKgvXJPl2y0Mr5ZloWg3tAH1OdMB2rGhXA&oe=64B30BD8",
+              "width": 480,
+              "height": 600
+            },
+            "imageServerSelected": null,
+            "imageSmallServerSelected": null,
+            "imageCarouselServerSelected": {
+              "image_rendering_style": "largesquare",
+              "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358100725_10115186488502101_7130814920927437353_n.jpg?stp=cp0_dst-jpg_e15_p960x960_q65&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-GWYG1ngHeUAX9uw-vt&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCqGMgIkzLBKentq1TfX_FimXx34JcZjVGEeJ199wkQ9A&oe=64B30BD8",
+              "width": 960,
+              "height": 1200
+            },
+            "imageFlexible": null,
+            "has_stickers": false,
+            "can_viewer_share": true,
+            "paired_video": null,
+            "owner": {
+              "__typename": "User",
+              "strong_id__": "4",
+              "id": "4",
+              "name": "Mark Zuckerberg"
+            },
+            "xy_tags_label": null,
+            "product_tags": [],
+            "product_matches": [],
+            "photo_product_tags": [],
+            "unified_product_tags": [],
+            "nt_permalink_chaining_photos_vscroll_intent": null,
+            "cix_screen": null,
+            "copyright_block_info": null,
+            "animated_image": null,
+            "is_playable": false,
+            "playable_url": null,
+            "playableUrlHdString": null,
+            "preferredPlayableUrlString": null,
+            "atom_size": 0,
+            "bitrate": 0,
+            "hdBitrate": 0,
+            "video_full_size": 0,
+            "is_disturbing": false,
+            "playable_duration_in_ms": 0,
+            "feedback": {
+              "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+              "if_viewer_can_see_voice_switcher": null,
+              "can_page_viewer_invite_post_likers": null,
+              "can_viewer_react": true,
+              "can_viewer_comment": true,
+              "can_viewer_comment_in_private": false,
+              "can_viewer_comment_with_gif": true,
+              "can_viewer_comment_with_photo": true,
+              "can_viewer_comment_with_sticker": true,
+              "can_viewer_comment_with_video": true,
+              "can_viewer_comment_with_music_no_user_qe_check": false,
+              "if_viewer_can_meme_remix": null,
+              "if_viewer_can_comment_with_fact": null,
+              "can_viewer_set_comment_moderation_filter": false,
+              "is_hide_transparency_enabled_for_actor": false,
+              "can_viewer_subscribe": true,
+              "can_viewer_comment_as_question": false,
+              "comment_moderation_filter_restriction_notice": null,
+              "associated_group": null,
+              "cqa_answer_count": null,
+              "does_viewer_like": false,
+              "feedback_target_type": "OTHER",
+              "is_viewer_subscribed": false,
+              "is_community_qa_post": false,
+              "is_community_qna_ish_post": false,
+              "legacy_api_post_id": "10115186488482141",
+              "viewer_acts_as_page": null,
+              "comments_mirroring_domain": null,
+              "owning_profile": {
+                "__typename": "User",
+                "strong_id__": "4",
+                "id": "4",
+                "name": "Mark Zuckerberg"
+              },
+              "can_see_voice_indicator": false,
+              "viewer_current_actor": {
+                "__typename": "User",
+                "strong_id__": "100092534187022",
+                "id": "100092534187022",
+                "name": "Lesley Jauregui",
+                "short_name": "Lesley",
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/347429477_266192475941589_8344099726722483566_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=DnCRYToxEbwAX_ubies&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfD5AMJPcyTtP-gPChHTr1uI0hhn3UCn7x_xHKf6NPiAAQ&oe=64B339EB"
+                }
+              },
+              "custom_sticker_pack": null,
+              "custom_sticker_pack_nux_content": null,
+              "can_viewer_see_community_award_button_in_post_ufi": null,
+              "default_comment_ordering": "ranked_threaded",
+              "top_level_comments": {
+                "count": 16189,
+                "total_count": 19693
+              },
+              "likers": {
+                "count": 124386
+              },
+              "reshares": {
+                "count": 32167
+              },
+              "reactors": {
+                "count": 195470
+              },
+              "top_reactions": {
+                "edges": [
+                  {
+                    "reaction_count": 124386,
+                    "node": {
+                      "id": "1635855486666999"
+                    }
+                  },
+                  {
+                    "reaction_count": 49260,
+                    "node": {
+                      "id": "1678524932434102"
+                    }
+                  },
+                  {
+                    "reaction_count": 15897,
+                    "node": {
+                      "id": "478547315650144"
+                    }
+                  },
+                  {
+                    "reaction_count": 3568,
+                    "node": {
+                      "id": "115940658764963"
+                    }
+                  },
+                  {
+                    "reaction_count": 2024,
+                    "node": {
+                      "id": "613557422527858"
+                    }
+                  },
+                  {
+                    "reaction_count": 213,
+                    "node": {
+                      "id": "444813342392137"
+                    }
+                  },
+                  {
+                    "reaction_count": 122,
+                    "node": {
+                      "id": "908563459236466"
+                    }
+                  }
+                ]
+              },
+              "viewer_feedback_reaction_info": null,
+              "supported_reaction_infos": [
+                {
+                  "id": "1635855486666999"
+                },
+                {
+                  "id": "1678524932434102"
+                },
+                {
+                  "id": "613557422527858"
+                },
+                {
+                  "id": "115940658764963"
+                },
+                {
+                  "id": "478547315650144"
+                },
+                {
+                  "id": "908563459236466"
+                },
+                {
+                  "id": "444813342392137"
+                }
+              ],
+              "important_reactors": {
+                "nodes": []
+              },
+              "viewer_acts_as_person": {
+                "id": "100092534187022",
+                "name": "Lesley Jauregui"
+              }
+            },
+            "is_spherical": false,
+            "photo_encodings": [],
+            "immersive_photo_encodings": [],
+            "attribution_app": null,
+            "attribution_app_metadata": null,
+            "face_boxes": {
+              "nodes": []
+            },
+            "is_viewer_suggested_tagger": false,
+            "tags": {
+              "edges": []
+            },
+            "show_objectionable_warning_in_feed": false
+          },
+          "all_subattachments": {
+            "count": 0
+          },
+          "subattachments": [],
+          "is_video_deep_links": false,
+          "is_animated_deep_links": false,
+          "poll_sticker": null
+        }
+      ],
+      "can_viewer_append_photos": false,
+      "can_viewer_edit": false,
+      "can_viewer_edit_metatags": false,
+      "can_viewer_edit_post_media": false,
+      "can_viewer_edit_post_privacy": false,
+      "can_viewer_edit_link_attachment": false,
+      "can_viewer_delete": false,
+      "can_viewer_end_qna": false,
+      "can_viewer_see_community_popular_waist": false,
+      "can_viewer_reshare_to_story": true,
+      "can_viewer_reshare_to_story_now": true,
+      "substories_grouping_reasons": [],
+      "group_post_topic_tags": [],
+      "via": null,
+      "with_tags": {
+        "nodes": []
+      },
+      "application": null,
+      "substory_count": 0,
+      "implicit_place": null,
+      "explicit_place": null,
+      "page_rec_info": null,
+      "is_eligible_to_remix": false,
+      "user_allowed_remix_post_level_setting": "NOT_APPLICABLE",
+      "remix_prompt_anchor": null,
+      "is_automatically_translated": false,
+      "is_eligible_for_affiliate_commission": false,
+      "sponsor_relationship": 0,
+      "sponsor_bumper_format": null,
+      "sponsor_bumper_logo": null,
+      "action_links": [
+        {
+          "__typename": "ShareActionLink",
+          "strong_id__": null,
+          "page": null,
+          "url": null,
+          "feed_cta_type": "UNKNOWN",
+          "link_type": null,
+          "title": "Share"
+        },
+        {
+          "__typename": "AddFriendActionLink",
+          "strong_id__": null,
+          "page": null,
+          "url": "https://www.facebook.com/ajax/add_friend/action/",
+          "feed_cta_type": "UNKNOWN",
+          "link_type": null,
+          "title": "Add Friend"
+        },
+        {
+          "__typename": "FollowProfileActionLink",
+          "strong_id__": null,
+          "link_title": "Mark Zuckerberg",
+          "link_description": null,
+          "should_use_follow_profile_icon": false,
+          "profile": {
+            "__typename": "User",
+            "strong_id__": "4",
+            "id": "4",
+            "subscribe_status": "CAN_SUBSCRIBE"
+          },
+          "follow_location": null,
+          "page": null,
+          "url": null,
+          "feed_cta_type": "UNKNOWN",
+          "link_type": "FOLLOW_USER",
+          "title": "Follow",
+          "should_use_blue_link": false
+        }
+      ],
+      "attached_action_links": [],
+      "bumpers": null,
+      "preference_signals": {
+        "chevron_menu_control_data": null,
+        "log_data": "{\"preference_signals_generator_type\":\"ORGANIC_CONTENT_GENERATOR\",\"preference_signals_log_data\":\"null\"}"
+      },
+      "shareable": {
+        "__typename": "Story",
+        "strong_id__": "-1082128891928703865",
+        "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE="
+      },
+      "integrity_context_image_context_trigger": null,
+      "has_comprehensive_title": false,
+      "edit_history": {
+        "count": 0
+      },
+      "inline_activities": {
+        "nodes": []
+      },
+      "display_explanation": null,
+      "story_attribution": null,
+      "story_header": null,
+      "crisis_listing": null,
+      "blood_request": null,
+      "actions": [],
+      "supplemental_social_story": null,
+      "viewer_edit_post_feature_capabilities": [
+        "FEED_TOPICS"
+      ],
+      "copyright_block_info": null,
+      "copyright_banner_info": null,
+      "copyright_attribution_native_template_view": null,
+      "camera_post_info": {
+        "shareable_id": "10115186488482141"
+      },
+      "page_exclusive_post_info": null,
+      "newsfeed_user_education_items": [],
+      "bloks_context_header": null,
+      "story_subtitle_bloks_view": null,
+      "underlying_admin_creator": null,
+      "identity_badges": [],
+      "user_signals_info": null,
+      "is_anonymous": false,
+      "ask_admin_to_post_accept_dialog": null,
+      "can_viewer_approve_post": false,
+      "ask_admin_to_post_author": null,
+      "post_subscription_status_info": null,
+      "profile_location_transparency_subtitle_text_with_entities": null,
+      "profile_location_transparency_subtitle_tap_action": null,
+      "soft_impersonation_subtitle_string": null,
+      "soft_impersonation_subtitle_tap_action": null,
+      "reshare_warning_action": null,
+      "reshare_warning_action_module_type": null,
+      "attachment_link_url": "",
+      "follow_intervention_action": null,
+      "can_show_upsell_header": true,
+      "ongoing_crisis_info": null,
+      "lightweight_negative_feedback_tooltip": null,
+      "should_show_easy_hide": false,
+      "sharesheet_type_override": "DEFAULT",
+      "product_match_info": {
+        "can_visual_search": false,
+        "admin_toggle_settings": null
+      },
+      "send_from_workplace_to_whatsapp": null,
+      "cix_screen": null,
+      "inform_treatment_for_messaging": null,
+      "if_viewer_can_see_commerce_profile": null,
+      "page_seller_rating_and_review_info": null,
+      "narrative_thread_metadata": null,
+      "whatsapp_ad_context": null,
+      "referenced_sticker": null,
+      "text_format_metadata": null,
+      "album": null,
+      "verified_voice_context": null,
+      "branded_content_integrity_context_trigger": null,
+      "subscribed_label_integrity_context_trigger": null,
+      "multiShareAttachmentWithImageFields": [],
+      "feedback": {
+        "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+        "can_page_viewer_invite_post_likers": null,
+        "can_viewer_react": true,
+        "can_viewer_comment": true,
+        "can_viewer_comment_in_private": false,
+        "can_viewer_comment_with_video": true,
+        "if_viewer_can_see_voice_switcher": null,
+        "can_viewer_set_comment_moderation_filter": false,
+        "is_hide_transparency_enabled_for_actor": false,
+        "can_viewer_subscribe": true,
+        "can_viewer_comment_as_question": false,
+        "does_viewer_like": false,
+        "feedback_target_type": "OTHER",
+        "is_viewer_subscribed": false,
+        "is_community_qa_post": false,
+        "is_community_qna_ish_post": false,
+        "legacy_api_post_id": "10115186488482141",
+        "post_has_op_liked_comment": null,
+        "viewer_acts_as_page": null,
+        "comments_mirroring_domain": null,
+        "owning_profile": {
+          "__typename": "User",
+          "strong_id__": "4",
+          "id": "4",
+          "name": "Mark Zuckerberg"
+        },
+        "can_see_voice_indicator": false,
+        "viewer_current_actor": {
+          "__typename": "User",
+          "strong_id__": "100092534187022",
+          "id": "100092534187022",
+          "name": "Lesley Jauregui",
+          "short_name": "Lesley",
+          "profile_picture": {
+            "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/347429477_266192475941589_8344099726722483566_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=DnCRYToxEbwAX_ubies&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfD5AMJPcyTtP-gPChHTr1uI0hhn3UCn7x_xHKf6NPiAAQ&oe=64B339EB"
+          }
+        },
+        "custom_sticker_pack": null,
+        "custom_sticker_pack_nux_content": null,
+        "associated_group": null,
+        "reply_banner_config": {
+          "feedback": {
+            "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE="
+          },
+          "should_highlight_comment_bubble": true
+        },
+        "is_viewer_or_post_comment_rate_limited": false,
+        "comment_rate_limit_message": null,
+        "has_viewer_commented_recently": false,
+        "default_comment_ordering": "ranked_threaded",
+        "likers": {
+          "count": 124386
+        },
+        "viewer_feedback_reaction_info": null,
+        "important_reactors": {
+          "nodes": []
+        },
+        "viewer_acts_as_person": {
+          "id": "100092534187022",
+          "name": "Lesley Jauregui"
+        },
+        "supported_reaction_infos": [
+          {
+            "id": "1635855486666999"
+          },
+          {
+            "id": "1678524932434102"
+          },
+          {
+            "id": "613557422527858"
+          },
+          {
+            "id": "115940658764963"
+          },
+          {
+            "id": "478547315650144"
+          },
+          {
+            "id": "908563459236466"
+          },
+          {
+            "id": "444813342392137"
+          }
+        ],
+        "reactions_dock_message": null,
+        "reactors": {
+          "count": 195470
+        },
+        "top_reactions": {
+          "edges": [
+            {
+              "reaction_count": 124386,
+              "node": {
+                "id": "1635855486666999"
+              }
+            },
+            {
+              "reaction_count": 49260,
+              "node": {
+                "id": "1678524932434102"
+              }
+            },
+            {
+              "reaction_count": 15897,
+              "node": {
+                "id": "478547315650144"
+              }
+            },
+            {
+              "reaction_count": 3568,
+              "node": {
+                "id": "115940658764963"
+              }
+            },
+            {
+              "reaction_count": 2024,
+              "node": {
+                "id": "613557422527858"
+              }
+            },
+            {
+              "reaction_count": 213,
+              "node": {
+                "id": "444813342392137"
+              }
+            },
+            {
+              "reaction_count": 122,
+              "node": {
+                "id": "908563459236466"
+              }
+            }
+          ]
+        },
+        "can_show_seen_by": false,
+        "seen_by": {
+          "count": null
+        },
+        "seen_count": null,
+        "people_outside_community_in_comment_notice": null,
+        "constituent_badge_banner_link": null,
+        "should_show_constituent_badge_upsell": false,
+        "can_viewer_mention": true,
+        "reaction_display_config": {
+          "is_reaction_count_hidden_by_producer": false,
+          "reaction_display_strategy": "NONE",
+          "reaction_string_with_viewer": null,
+          "reaction_string_without_viewer": null,
+          "reaction_sheet_explanation_string": null
+        },
+        "story_for_community_awards": null,
+        "comment_moderation_filter_restriction_notice": null,
+        "localized_comment_orderings": [
+          {
+            "description": "Show friends' comments and the most engaging comments first.",
+            "title": "Most relevant",
+            "value": "RANKED_THREADED"
+          },
+          {
+            "description": "Show the newest comments first. Some comments are filtered out.",
+            "title": "Newest",
+            "value": "RECENT_ACTIVITY"
+          },
+          {
+            "description": "Show all comments, including potential spam. The most relevant comments will appear first.",
+            "title": "All comments",
+            "value": "RANKED_UNFILTERED"
+          }
+        ],
+        "comment_explanation_footer_string": null,
+        "comment_filtering_footer_string": "Most relevant is selected, so some comments may have been filtered out.",
+        "comment_filtering_admin_hidden_footer_string": "Hidden by you is selected, so other comments have been filtered out except related replies that provide context. To reply to a comment you've unhidden, change your filter selection.",
+        "top_level_comments": {
+          "count": 16155,
+          "total_count": 19693,
+          "ordering_mode_for_load_more_request": {
+            "top_level_comment_ordering_mode": "toplevel",
+            "reply_comment_ordering_mode": "sub_replies"
+          },
+          "comments_loading_behavior": {
+            "comments_pagination_direction": "TOP",
+            "comments_insertion_direction": "BOTTOM"
+          },
+          "nodes": [
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yNjEyMjQ4MTI1NjExMTYz",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfMjYxMjI0ODEyNTYxMTE2Mw==",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_2612248125611163",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100025855637632",
+                "name": "Sergej Bodak",
+                "id": "100025855637632",
+                "url": "https://www.facebook.com/sergej.bodak.90",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/292781270_1106764266862084_6169149273124957240_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=flZ65zG1PLIAX-9V1Rs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDYZoSAeLIVk9JrBIEGeml2sLbgRvUg3Gb13tfi2HRRhQ&oe=64B260F6"
+                },
+                "short_name": "Sergej",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/292781270_1106764266862084_6169149273124957240_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=flZ65zG1PLIAX-9V1Rs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDYZoSAeLIVk9JrBIEGeml2sLbgRvUg3Gb13tfi2HRRhQ&oe=64B260F6"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/292781270_1106764266862084_6169149273124957240_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=flZ65zG1PLIAX-9V1Rs&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDYZoSAeLIVk9JrBIEGeml2sLbgRvUg3Gb13tfi2HRRhQ&oe=64B260F6",
+                  "width": 112,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Sergej Bodak",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 6
+                    },
+                    {
+                      "part": "last",
+                      "offset": 7,
+                      "length": 5
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "2612248125611163",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689149193,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "Hi Mark! Tell me please. Will Threads have a translator?",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yNjEyMjQ4MTI1NjExMTYz"
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yNjEyMjQ4MTI1NjExMTYz"
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=2612248125611163",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "NONE",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8xNTU5NjcyNjM3ODk4NDk4",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfMTU1OTY3MjYzNzg5ODQ5OA==",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_1559672637898498",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100089125450637",
+                "name": "Josephine adventure ",
+                "id": "100089125450637",
+                "url": "https://www.facebook.com/profile.php?id=100089125450637",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/323410808_736832511372924_3339110480914989249_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=IG3n5NrUbjQAX8OyFTw&_nc_oc=AQlYPDE965MRsi4gY9cXxLohOZlNrta3chFKUHK0mtHZj63inT-ymAZlz7RK8rbmD7s&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDTw2mS-p15x-ghs1pPYHDO71t-39LGe5kg6BXR4-g_Wg&oe=64B373F5"
+                },
+                "short_name": "Josephine adventure ",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/323410808_736832511372924_3339110480914989249_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=IG3n5NrUbjQAX8OyFTw&_nc_oc=AQlYPDE965MRsi4gY9cXxLohOZlNrta3chFKUHK0mtHZj63inT-ymAZlz7RK8rbmD7s&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDTw2mS-p15x-ghs1pPYHDO71t-39LGe5kg6BXR4-g_Wg&oe=64B373F5"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/323410808_736832511372924_3339110480914989249_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=c6021c&_nc_ohc=IG3n5NrUbjQAX8OyFTw&_nc_oc=AQlYPDE965MRsi4gY9cXxLohOZlNrta3chFKUHK0mtHZj63inT-ymAZlz7RK8rbmD7s&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDTw2mS-p15x-ghs1pPYHDO71t-39LGe5kg6BXR4-g_Wg&oe=64B373F5",
+                  "width": 114,
+                  "height": 112
+                },
+                "gender": "UNKNOWN",
+                "structured_name": {
+                  "text": "Josephine adventure",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 9
+                    },
+                    {
+                      "part": "last",
+                      "offset": 10,
+                      "length": 9
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "1559672637898498",
+              "viewer_subscribe_status_to_comment_author": "CAN_SUBSCRIBE",
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689148911,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "Wow hoping everyone can join the connecting threads. Good luck to us go go go and enjoy making reels",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8xNTU5NjcyNjM3ODk4NDk4"
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8xNTU5NjcyNjM3ODk4NDk4"
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=1559672637898498",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "NONE",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yMzI4NjIyMTk1NzQyNDM=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfMjMyODYyMjE5NTc0MjQz",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_232862219574243",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100033548511455",
+                "name": "مصطفي محمد العفاسي",
+                "id": "100033548511455",
+                "url": "https://www.facebook.com/fae8mG",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/356654963_974859206975687_8387435716749825908_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_ohc=lMR_NnAVNgEAX9sOciE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfArxETGJhdJnSwWOrXKWtcS-rwh4fWduVBmgbYi86XnOA&oe=64B2C55C"
+                },
+                "short_name": "مصطفي",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/356654963_974859206975687_8387435716749825908_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_ohc=lMR_NnAVNgEAX9sOciE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfArxETGJhdJnSwWOrXKWtcS-rwh4fWduVBmgbYi86XnOA&oe=64B2C55C"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/356654963_974859206975687_8387435716749825908_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=f67be1&_nc_ohc=lMR_NnAVNgEAX9sOciE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfArxETGJhdJnSwWOrXKWtcS-rwh4fWduVBmgbYi86XnOA&oe=64B2C55C",
+                  "width": 113,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "مصطفي محمد العفاسي",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 5
+                    },
+                    {
+                      "part": "last",
+                      "offset": 6,
+                      "length": 12
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "232862219574243",
+              "viewer_subscribe_status_to_comment_author": "CAN_SUBSCRIBE",
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689147440,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "Elon Musk competes with Mark Zuckerberg's Facebook",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [
+                {
+                  "style_infos": [
+                    {
+                      "__typename": "CollagePhotoAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "GamesAppStoryAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FeedStandardAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FutureOfFeedAttachmentStyleInfo"
+                    }
+                  ],
+                  "media": {
+                    "__typename": "Photo",
+                    "strong_id__": "983102256151382",
+                    "image": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358481994_983102252818049_2854965145729466521_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=101&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=GWijpbocVTMAX9xHI7z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBHI-BPQsPnTDWMoArPt1pjjOeZ1lacJK926U94Plrmqw&oe=64B2D854",
+                      "width": 720,
+                      "height": 216
+                    },
+                    "id": "983102256151382",
+                    "accessibility_caption": "May be a Twitter screenshot of 1 person, bread, pie and text",
+                    "imageLow": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358481994_983102252818049_2854965145729466521_n.jpg?stp=cp0_dst-jpg_e15_q65_s370x247&_nc_cat=101&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=GWijpbocVTMAX9xHI7z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCNv4jnJZ-uTi3uhk4c95N9srncjK3YS45YhoEhIX2VdA&oe=64B2D854",
+                      "width": 370,
+                      "height": 111
+                    },
+                    "imageMedium": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358481994_983102252818049_2854965145729466521_n.jpg?stp=cp0_dst-jpg_e15_p235x165_q65&_nc_cat=101&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=GWijpbocVTMAX9xHI7z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDB3TJyoqWoQMaZqVkhPasexNXFURi6x-Rs4I6AUQoaNw&oe=64B2D854",
+                      "width": 550,
+                      "height": 165
+                    },
+                    "imageHigh": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358481994_983102252818049_2854965145729466521_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=101&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=GWijpbocVTMAX9xHI7z&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBHI-BPQsPnTDWMoArPt1pjjOeZ1lacJK926U94Plrmqw&oe=64B2D854",
+                      "width": 720,
+                      "height": 216
+                    },
+                    "focus": {
+                      "x": 0.5,
+                      "y": 0.33
+                    },
+                    "should_block_screenshot": false,
+                    "animated_image": null,
+                    "is_playable": false,
+                    "cix_screen": null,
+                    "show_objectionable_warning_in_feed": false,
+                    "is_disturbing": false
+                  },
+                  "url": "https://m.facebook.com/photo.php?fbid=983102256151382&id=100033548511455&set=p.983102256151382",
+                  "title_with_entities": {
+                    "text": ""
+                  },
+                  "source": null,
+                  "description": null,
+                  "target": {
+                    "__typename": "Photo",
+                    "strong_id__": "983102256151382"
+                  },
+                  "snippet": null,
+                  "media_reference_token": "p.983102256151382",
+                  "title": "",
+                  "third_party_media_info": null,
+                  "style_list": [
+                    "photo",
+                    "games_app",
+                    "fallback"
+                  ]
+                }
+              ],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yMzI4NjIyMTk1NzQyNDM="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yMzI4NjIyMTk1NzQyNDM="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=232862219574243",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "PHOTO",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8xODkwMTczNDA1NzE2NjQ=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfMTg5MDE3MzQwNTcxNjY0",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_189017340571664",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100013520046526",
+                "name": "Ãñîrûdh Mãlîk",
+                "id": "100013520046526",
+                "url": "https://www.facebook.com/anirudh.vanshika.5757",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t1.6435-1/56427003_642197919574204_1096481755981938688_n.jpg?stp=c0.4.112.112a_cp0_dst-jpg_e15_p112x112_q65&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Mk-eiYp9WgMAX_Lm1-A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBxoB1LFkzgwog6A7c4mOZgnpypMChfv0VZONsT5k80Og&oe=64D5DD29"
+                },
+                "short_name": "Ãñîrûdh",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t1.6435-1/56427003_642197919574204_1096481755981938688_n.jpg?stp=c0.4.112.112a_cp0_dst-jpg_e15_p112x112_q65&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Mk-eiYp9WgMAX_Lm1-A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBxoB1LFkzgwog6A7c4mOZgnpypMChfv0VZONsT5k80Og&oe=64D5DD29"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t1.6435-1/56427003_642197919574204_1096481755981938688_n.jpg?stp=c0.4.112.112a_cp0_dst-jpg_e15_p112x112_q65&_nc_cat=100&ccb=1-7&_nc_sid=7206a8&_nc_ohc=Mk-eiYp9WgMAX_Lm1-A&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBxoB1LFkzgwog6A7c4mOZgnpypMChfv0VZONsT5k80Og&oe=64D5DD29",
+                  "width": 112,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Ãñîrûdh Mãlîk",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 7
+                    },
+                    {
+                      "part": "last",
+                      "offset": 8,
+                      "length": 5
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "189017340571664",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689146604,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": null,
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [
+                {
+                  "style_infos": [
+                    {
+                      "__typename": "FeedStandardAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "ExternalShareAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FutureOfFeedAttachmentStyleInfo"
+                    }
+                  ],
+                  "media": {
+                    "__typename": "Video",
+                    "strong_id__": "6266042550175445",
+                    "id": "6266042550175445",
+                    "playable_duration": 0,
+                    "playable_url": "https://video.ftlv8-1.fna.fbcdn.net/v/t42.4659-2/354981347_6266042553508778_8476257430187882351_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=73e57b&_nc_ohc=xkqJPIzIFqUAX_NCfEq&_nc_ht=video.ftlv8-1.fna&oh=00_AfB27YyCEAS6aAlzx4N7c9x2pf472J-sVI1ADUoJStwlMw&oe=64AFE190",
+                    "video_container_type": null,
+                    "image": {
+                      "uri": "https://external.ftlv8-1.fna.fbcdn.net/emg1/v/t13/17992919594867286735?url=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F2adea92af54bb2f80bae653232e2c6be%2Ftenor.gif%3Fc%3DVjFfZmFjZWJvb2tfd2ViY29tbWVudHM%26itemid%3D15829633&fb_obo=1&utld=tenor.co&stp=dst-jpg_e15_flffffff_q65_s960x960&ccb=13-1&oh=06_AbG6_teGxpCfWIs0_EXlBVG5GgnQZmVDPbiKYjn9SyXx8Q&oe=64AFE3CB&_nc_sid=75c735",
+                      "width": 640,
+                      "height": 586
+                    },
+                    "imageLow": {
+                      "uri": "https://external.ftlv8-1.fna.fbcdn.net/emg1/v/t13/17992919594867286735?url=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F2adea92af54bb2f80bae653232e2c6be%2Ftenor.gif%3Fc%3DVjFfZmFjZWJvb2tfd2ViY29tbWVudHM%26itemid%3D15829633&fb_obo=1&utld=tenor.co&stp=dst-jpg_e15_flffffff_q65_s360x2048&ccb=13-1&oh=06_AbH1f9Hu4lHOgqW3Ik6FtLsV9nDczzoceaKlXhVEaxKT7Q&oe=64AFE3CB&_nc_sid=75c735",
+                      "width": 360,
+                      "height": 329
+                    },
+                    "imageMedium": {
+                      "uri": "https://external.ftlv8-1.fna.fbcdn.net/emg1/v/t13/17992919594867286735?url=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F2adea92af54bb2f80bae653232e2c6be%2Ftenor.gif%3Fc%3DVjFfZmFjZWJvb2tfd2ViY29tbWVudHM%26itemid%3D15829633&fb_obo=1&utld=tenor.co&stp=dst-jpg_e15_flffffff_q65_s540x2048&ccb=13-1&oh=06_AbFbR_oi1TPG8ygAAZsGikixvcyz_dvYWhP5H7cNOUUkUQ&oe=64AFE3CB&_nc_sid=75c735",
+                      "width": 540,
+                      "height": 494
+                    },
+                    "imageHigh": {
+                      "uri": "https://external.ftlv8-1.fna.fbcdn.net/emg1/v/t13/17992919594867286735?url=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F2adea92af54bb2f80bae653232e2c6be%2Ftenor.gif%3Fc%3DVjFfZmFjZWJvb2tfd2ViY29tbWVudHM%26itemid%3D15829633&fb_obo=1&utld=tenor.co&stp=dst-jpg_e15_flffffff_q65_s1080x2048&ccb=13-1&oh=06_AbHdufRmIfpze6G6NNfo-UiMj-uKIHS2ltbhaHQjCY_Kkw&oe=64AFE3CB&_nc_sid=75c735",
+                      "width": 640,
+                      "height": 586
+                    },
+                    "animated_image_attribution": "Tenor",
+                    "animated_image_caption": "GIF may contain Jim Carrey, happy, smile, car and funny",
+                    "animated_image": {
+                      "uri": "https://external.ftlv8-1.fna.fbcdn.net/emg1/v/t13/17992919594867286735?url=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F2adea92af54bb2f80bae653232e2c6be%2Ftenor.gif%3Fc%3DVjFfZmFjZWJvb2tfd2ViY29tbWVudHM%26itemid%3D15829633&fb_obo=1&utld=tenor.co&stp=dst-gif_q75&ccb=13-1&oh=06_AbF-zNgI3bKjg5wxTz5QPDTg9o2TT4SIM0ru0Xkt18jzfA&oe=64AFE3CB&_nc_sid=04e672",
+                      "width": 640,
+                      "height": 586
+                    },
+                    "is_playable": true,
+                    "hd_playable_url": "https://video.ftlv8-1.fna.fbcdn.net/v/t42.4659-2/354981347_6266042553508778_8476257430187882351_n.mp4?_nc_cat=107&ccb=1-7&_nc_sid=73e57b&_nc_ohc=xkqJPIzIFqUAX_NCfEq&_nc_ht=video.ftlv8-1.fna&oh=00_AfB27YyCEAS6aAlzx4N7c9x2pf472J-sVI1ADUoJStwlMw&oe=64AFE190",
+                    "captions_url": null,
+                    "playlist": null,
+                    "video_imf_data": null,
+                    "video_protocol_props": null,
+                    "is_looping": true,
+                    "loop_count": -1,
+                    "atom_size": 0,
+                    "bitrate": 0,
+                    "hdBitrate": 0,
+                    "width": 640,
+                    "height": 586,
+                    "cix_screen": null,
+                    "is_live_streaming": false,
+                    "show_objectionable_warning_in_feed": false
+                  },
+                  "url": "https://lm.facebook.com/l.php?u=https%3A%2F%2Fmedia1.tenor.co%2Fimages%2F2adea92af54bb2f80bae653232e2c6be%2Ftenor.gif%3Fc%3DVjFfZmFjZWJvb2tfd2ViY29tbWVudHM%26itemid%3D15829633%26fbclid%3DIwAR1si6oEOCxvOJTQ25FG8j5Fwz92RkgNZTAO9maeG6asqv58KyFg1-uZ7Ls&h=AT0jnxQ1mXp99cax9kKZXTMWFkrWQthrA5Kx1Vnqcfz2GgtnQW13nzkeCfJsq5lpFeCfkzJQ1mZ59wZOMxemebzf8GYu2rQI5tJHn04k5ydN_C9rzbnsQQNBMD_JqcZKcFxvTrDdAoZhiE4&s=1",
+                  "title_with_entities": {
+                    "text": "media1.tenor.co"
+                  },
+                  "source": {
+                    "text": "media1.tenor.co"
+                  },
+                  "description": {
+                    "text": ""
+                  },
+                  "target": {
+                    "__typename": "ExternalUrl",
+                    "strong_id__": "5412757195078383720",
+                    "cache_id": "5412757195078383720",
+                    "external_url": "https://media1.tenor.co/images/2adea92af54bb2f80bae653232e2c6be/tenor.gif?c=VjFfZmFjZWJvb2tfd2ViY29tbWVudHM&itemid=15829633"
+                  },
+                  "snippet": null,
+                  "media_reference_token": null,
+                  "title": "media1.tenor.co",
+                  "third_party_media_info": null,
+                  "style_list": [
+                    "animated_image_autoplay",
+                    "animated_image_share",
+                    "image_share",
+                    "share",
+                    "fallback"
+                  ]
+                }
+              ],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8xODkwMTczNDA1NzE2NjQ="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8xODkwMTczNDA1NzE2NjQ="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=189017340571664",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "GIF",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8zNDYyMzAzNjM0MDA4MDY5",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfMzQ2MjMwMzYzNDAwODA2OQ==",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_3462303634008069",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100023493981739",
+                "name": "AL Amin",
+                "id": "100023493981739",
+                "url": "https://www.facebook.com/alamin8365",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/345265475_236372705740157_4179519521029666632_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=108&ccb=1-7&_nc_sid=f67be1&_nc_ohc=8_ZjpHAvXw8AX-5aZBA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBaMOSy0Wg1E_rZMu7-EfCNEe0YMndz10kJC2EH7ByGcA&oe=64B32BFF"
+                },
+                "short_name": "AL",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/345265475_236372705740157_4179519521029666632_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=108&ccb=1-7&_nc_sid=f67be1&_nc_ohc=8_ZjpHAvXw8AX-5aZBA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBaMOSy0Wg1E_rZMu7-EfCNEe0YMndz10kJC2EH7ByGcA&oe=64B32BFF"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/345265475_236372705740157_4179519521029666632_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=108&ccb=1-7&_nc_sid=f67be1&_nc_ohc=8_ZjpHAvXw8AX-5aZBA&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBaMOSy0Wg1E_rZMu7-EfCNEe0YMndz10kJC2EH7ByGcA&oe=64B32BFF",
+                  "width": 112,
+                  "height": 113
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "AL Amin",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 2
+                    },
+                    {
+                      "part": "last",
+                      "offset": 3,
+                      "length": 4
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "3462303634008069",
+              "viewer_subscribe_status_to_comment_author": "CAN_SUBSCRIBE",
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689144975,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "Dam😊😊😊",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [
+                {
+                  "style_infos": [
+                    {
+                      "__typename": "CollagePhotoAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "GamesAppStoryAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "SingleMediaAttachmentSizingStyleInfo"
+                    },
+                    {
+                      "__typename": "FeedStandardAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FutureOfFeedAttachmentStyleInfo"
+                    }
+                  ],
+                  "media": {
+                    "__typename": "Photo",
+                    "strong_id__": "1426446944815091",
+                    "image": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/359403307_1426446941481758_3785589015478603606_n.jpg?stp=cp0_dst-jpg_e15_q65_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=FZ5MTU-9DKEAX95XZej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfB93aeyFea6T0z43P31veluyXjcGzwkJU5jbqjp9yrsPA&oe=64B3E7A7",
+                      "width": 432,
+                      "height": 960
+                    },
+                    "id": "1426446944815091",
+                    "accessibility_caption": "May be a Twitter screenshot of 2 people and text that says '12:55 57% AL AMIN alamin_8365 Life is too short, just ignore everything and enjoy Edit profile Share profile Threads alamin_8365 जठ ডানসাে'",
+                    "imageLow": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/359403307_1426446941481758_3785589015478603606_n.jpg?stp=cp0_dst-jpg_e15_p370x247_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=FZ5MTU-9DKEAX95XZej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBHRD0b0wMS04_5Gw10uin8x43K-eqCpGY9kBo76Jr4HQ&oe=64B3E7A7",
+                      "width": 370,
+                      "height": 822
+                    },
+                    "imageMedium": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/359403307_1426446941481758_3785589015478603606_n.jpg?stp=cp0_dst-jpg_e15_p552x414_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=FZ5MTU-9DKEAX95XZej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfC8RuWFLTwUtN0OeImTG79XPiCiz739uzN716Y_XiqlnA&oe=64B3E7A7",
+                      "width": 552,
+                      "height": 1226
+                    },
+                    "imageHigh": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/359403307_1426446941481758_3785589015478603606_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=FZ5MTU-9DKEAX95XZej&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCdgr7PbUAQT5vSEeAXIxAbeBR1LSb06rkmZWJcTz-F4Q&oe=64B3E7A7",
+                      "width": 640,
+                      "height": 1422
+                    },
+                    "focus": {
+                      "x": 0.5,
+                      "y": 0.33
+                    },
+                    "should_block_screenshot": false,
+                    "animated_image": null,
+                    "is_playable": false,
+                    "cix_screen": null,
+                    "show_objectionable_warning_in_feed": false,
+                    "is_disturbing": false
+                  },
+                  "url": "https://m.facebook.com/photo.php?fbid=1426446944815091&id=100023493981739&set=p.1426446944815091",
+                  "title_with_entities": {
+                    "text": ""
+                  },
+                  "source": null,
+                  "description": null,
+                  "target": {
+                    "__typename": "Photo",
+                    "strong_id__": "1426446944815091"
+                  },
+                  "snippet": null,
+                  "media_reference_token": "p.1426446944815091",
+                  "title": "",
+                  "third_party_media_info": null,
+                  "style_list": [
+                    "photo",
+                    "games_app",
+                    "fallback"
+                  ]
+                }
+              ],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8zNDYyMzAzNjM0MDA4MDY5"
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8zNDYyMzAzNjM0MDA4MDY5"
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=3462303634008069",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "PHOTO",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yMzE5NDY3OTkxODk3ODM=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfMjMxOTQ2Nzk5MTg5Nzgz",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_231946799189783",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100077793292182",
+                "name": "Sartiman",
+                "id": "100077793292182",
+                "url": "https://www.facebook.com/sartiman582",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/359776741_289853390284435_7941882969152871767_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=109&ccb=1-7&_nc_sid=f67be1&_nc_ohc=V4O7nbinR6IAX8gawmE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfC5hMU_kpSne-cv0KJPuqjAOiip-wli1S0FhTnQowoD6A&oe=64B3EA78"
+                },
+                "short_name": "Sartiman",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/359776741_289853390284435_7941882969152871767_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=109&ccb=1-7&_nc_sid=f67be1&_nc_ohc=V4O7nbinR6IAX8gawmE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfC5hMU_kpSne-cv0KJPuqjAOiip-wli1S0FhTnQowoD6A&oe=64B3EA78"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/359776741_289853390284435_7941882969152871767_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=109&ccb=1-7&_nc_sid=f67be1&_nc_ohc=V4O7nbinR6IAX8gawmE&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfC5hMU_kpSne-cv0KJPuqjAOiip-wli1S0FhTnQowoD6A&oe=64B3EA78",
+                  "width": 112,
+                  "height": 113
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Sartiman",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 8
+                    },
+                    {
+                      "part": "last",
+                      "offset": 0,
+                      "length": 0
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "231946799189783",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689144971,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "I can't restore my account with cellphone number 081911222582 because the old cellphone number has been blocked, I asked for a policy from the Facebook team to restore my main account facebook link below, I have sent a report until now my report has not been resolved, I have also attached several my documents, if it's unclear contact me by phone. my main facebook link: https://www.facebook.com/ytsartiman\n\nNote: kalau tidak bisa mengatasi masalah saya berarti facebook mengambil akses akun saya. Kenapa bukan akun besar yang lebih banyak penggemarnya yang diambil, kenapa harus akun facebook utama saya.😭😭😭",
+                "color_ranges": [],
+                "ranges": [
+                  {
+                    "offset": 372,
+                    "length": 35,
+                    "entity_is_weak_reference": false,
+                    "entity": {
+                      "__typename": "User",
+                      "strong_id__": "100082847689989",
+                      "id": "100082847689989",
+                      "work_foreign_entity_info": null,
+                      "work_info": null,
+                      "is_work_user": false,
+                      "url": "https://m.facebook.com/ytsartiman",
+                      "android_urls": null,
+                      "name": "Sartiman",
+                      "profile_picture": {
+                        "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/290933197_108649961906593_3200410722443221891_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=110&ccb=1-7&_nc_sid=f67be1&_nc_ohc=RTmECJtEDfUAX9QHNfV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBCG5DiImPghKsiLL5WIh-sozZniKuJ8Siol8y7QWET8Q&oe=64B37B7A"
+                      }
+                    }
+                  }
+                ],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "SEE_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [
+                {
+                  "style_infos": [
+                    {
+                      "__typename": "FeedStandardAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FutureOfFeedAttachmentStyleInfo"
+                    }
+                  ],
+                  "media": {
+                    "__typename": "ProfilePicAttachmentMedia",
+                    "strong_id__": null,
+                    "image": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/290933197_108649961906593_3200410722443221891_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=RTmECJtEDfUAX9QHNfV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfADoHoVQR7hhADpOqAsOInwGqAc7MCOVcvnqGWsLUqPsA&oe=64B37B7A",
+                      "width": 600,
+                      "height": 600
+                    },
+                    "imageLow": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/290933197_108649961906593_3200410722443221891_n.jpg?stp=c247.0.106.600a_cp0_dst-jpg_e15_q65&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=RTmECJtEDfUAX9QHNfV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfCxXqy2byb78fvyecz_ptZwnKuymu2fZLuYuSW-kmcYfw&oe=64B37B7A",
+                      "width": 105,
+                      "height": 600
+                    },
+                    "imageMedium": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/290933197_108649961906593_3200410722443221891_n.jpg?stp=c221.0.158.600a_cp0_dst-jpg_e15_q65&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=RTmECJtEDfUAX9QHNfV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDi-JuM2CHEYBhfkjH5q6YgknJAVBc9Chue2iZ6t_9cQQ&oe=64B37B7A",
+                      "width": 158,
+                      "height": 600
+                    },
+                    "imageHigh": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/290933197_108649961906593_3200410722443221891_n.jpg?stp=c142.0.316.600a_cp0_dst-jpg_e15_q65&_nc_cat=110&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=RTmECJtEDfUAX9QHNfV&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfATfLfPHqGiFvYNfrRWDt9Iw5wq_TNaibjlAobrryCElA&oe=64B37B7A",
+                      "width": 316,
+                      "height": 600
+                    },
+                    "animated_image": null,
+                    "is_playable": false
+                  },
+                  "url": "https://m.facebook.com/ytsartiman",
+                  "title_with_entities": {
+                    "text": "Sartiman"
+                  },
+                  "source": null,
+                  "description": {
+                    "text": ""
+                  },
+                  "target": {
+                    "__typename": "User",
+                    "strong_id__": "100082847689989"
+                  },
+                  "snippet": null,
+                  "media_reference_token": null,
+                  "title": "Sartiman",
+                  "third_party_media_info": null,
+                  "style_list": [
+                    "avatar",
+                    "fallback"
+                  ]
+                }
+              ],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yMzE5NDY3OTkxODk3ODM="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV8yMzE5NDY3OTkxODk3ODM="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=231946799189783",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "LINK",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV82NjI2ODgzMzI0NDczMDY=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfNjYyNjg4MzMyNDQ3MzA2",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_662688332447306",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100089153418686",
+                "name": "Matthew Chibuike Eze",
+                "id": "100089153418686",
+                "url": "https://www.facebook.com/profile.php?id=100089153418686",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/357169518_225616790420100_8445464372009161906_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=rHIt7yuvQzUAX9xMpIk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBL3pSBXS_xhX7exfBlZCcpH5uJbXi9Ei1InVoqBjDyzQ&oe=64B3A2E1"
+                },
+                "short_name": "Matthew Chibuike",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/357169518_225616790420100_8445464372009161906_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=rHIt7yuvQzUAX9xMpIk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBL3pSBXS_xhX7exfBlZCcpH5uJbXi9Ei1InVoqBjDyzQ&oe=64B3A2E1"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/357169518_225616790420100_8445464372009161906_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=111&ccb=1-7&_nc_sid=7206a8&_nc_ohc=rHIt7yuvQzUAX9xMpIk&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBL3pSBXS_xhX7exfBlZCcpH5uJbXi9Ei1InVoqBjDyzQ&oe=64B3A2E1",
+                  "width": 112,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Matthew Chibuike Eze",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 16
+                    },
+                    {
+                      "part": "last",
+                      "offset": 17,
+                      "length": 3
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "662688332447306",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689143263,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "It's not on palm store.why?\nMark Zuckerberg",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV82NjI2ODgzMzI0NDczMDY="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV82NjI2ODgzMzI0NDczMDY="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=662688332447306",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "NONE",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV82NjAzNDE0Nzk0NDYyMjg=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfNjYwMzQxNDc5NDQ2MjI4",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_660341479446228",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100041252206888",
+                "name": "Владимир Хомяков",
+                "id": "100041252206888",
+                "url": "https://www.facebook.com/profile.php?id=100041252206888",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/239976716_630462831672118_1179689307660755843_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=vVWu3uePHRQAX9xd6zQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDSDTtzHOU-LJsJuIU-orPjyYG1aae7t9qTNwydZoQgMA&oe=64B35F65"
+                },
+                "short_name": "Владимир",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/239976716_630462831672118_1179689307660755843_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=vVWu3uePHRQAX9xd6zQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDSDTtzHOU-LJsJuIU-orPjyYG1aae7t9qTNwydZoQgMA&oe=64B35F65"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/239976716_630462831672118_1179689307660755843_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=7206a8&_nc_ohc=vVWu3uePHRQAX9xd6zQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDSDTtzHOU-LJsJuIU-orPjyYG1aae7t9qTNwydZoQgMA&oe=64B35F65",
+                  "width": 112,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Владимир Хомяков",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 8
+                    },
+                    {
+                      "part": "last",
+                      "offset": 9,
+                      "length": 7
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "660341479446228",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689143188,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "Facebook censorship hides\ncomments with filters:\n\"Most Relevant\".\n* * *\nChoose: \"All comments\".\n—\nFacebook and dictator Putin.\nCambridge Analytica\n\nWhy hide information from people?\n\nHow much dirty money\ndictator Putin from Russia\n(money of Russian people,\nwhich he stole from the people)\nin Big Farma and Big Tech?",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [
+                {
+                  "style_infos": [
+                    {
+                      "__typename": "CollagePhotoAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "GamesAppStoryAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FeedStandardAttachmentStyleInfo"
+                    },
+                    {
+                      "__typename": "FutureOfFeedAttachmentStyleInfo"
+                    }
+                  ],
+                  "media": {
+                    "__typename": "Photo",
+                    "strong_id__": "1089132459138484",
+                    "image": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358477562_1089132455805151_630603189180626726_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=rdZxSBVW0AwAX8bbOvM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDDKftk2g4fSQg1Xe_M-DPnwwolZWfjfEIgGNfHjvoDSA&oe=64B28FFF",
+                      "width": 750,
+                      "height": 767
+                    },
+                    "id": "1089132459138484",
+                    "accessibility_caption": "May be an image of 1 person, military uniform and text",
+                    "imageLow": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358477562_1089132455805151_630603189180626726_n.jpg?stp=cp0_dst-jpg_e15_p370x247_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=rdZxSBVW0AwAX8bbOvM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfBH4qXEYcUlZSt_cnmOdaofaSu1d_eZ36hJ0P-lPop8_w&oe=64B28FFF",
+                      "width": 370,
+                      "height": 378
+                    },
+                    "imageMedium": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358477562_1089132455805151_630603189180626726_n.jpg?stp=cp0_dst-jpg_e15_p552x414_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=rdZxSBVW0AwAX8bbOvM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDd_nNUWcxugaqQxvS565nQww9fTeM8ahRu3-WTN7IBzg&oe=64B28FFF",
+                      "width": 552,
+                      "height": 565
+                    },
+                    "imageHigh": {
+                      "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-6/358477562_1089132455805151_630603189180626726_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=102&ccb=1-7&_nc_sid=dbeb18&_nc_ohc=rdZxSBVW0AwAX8bbOvM&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDDKftk2g4fSQg1Xe_M-DPnwwolZWfjfEIgGNfHjvoDSA&oe=64B28FFF",
+                      "width": 750,
+                      "height": 767
+                    },
+                    "focus": {
+                      "x": 0.5,
+                      "y": 0.33
+                    },
+                    "should_block_screenshot": false,
+                    "animated_image": null,
+                    "is_playable": false,
+                    "cix_screen": null,
+                    "show_objectionable_warning_in_feed": false,
+                    "is_disturbing": false
+                  },
+                  "url": "https://m.facebook.com/photo.php?fbid=1089132459138484&id=100041252206888&set=p.1089132459138484",
+                  "title_with_entities": {
+                    "text": ""
+                  },
+                  "source": null,
+                  "description": null,
+                  "target": {
+                    "__typename": "Photo",
+                    "strong_id__": "1089132459138484"
+                  },
+                  "snippet": null,
+                  "media_reference_token": "p.1089132459138484",
+                  "title": "",
+                  "third_party_media_info": null,
+                  "style_list": [
+                    "photo",
+                    "games_app",
+                    "fallback"
+                  ]
+                }
+              ],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV82NjAzNDE0Nzk0NDYyMjg="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV82NjAzNDE0Nzk0NDYyMjg="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=660341479446228",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "PHOTO",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV84MzM2NjA3NzQ0NjgxODE=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfODMzNjYwNzc0NDY4MTgx",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_833660774468181",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100081356370008",
+                "name": "Palash Dhaki",
+                "id": "100081356370008",
+                "url": "https://www.facebook.com/profile.php?id=100081356370008",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/357572386_259206753467869_8475832433381874126_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=f67be1&_nc_ohc=T6L1qDNnh8gAX-EKvuN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDjI1l_lhVCUD9eHGea8AszCkkPXHId-c1tnewmjhd7KQ&oe=64B3D9FA"
+                },
+                "short_name": "Palash",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/357572386_259206753467869_8475832433381874126_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=f67be1&_nc_ohc=T6L1qDNnh8gAX-EKvuN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDjI1l_lhVCUD9eHGea8AszCkkPXHId-c1tnewmjhd7KQ&oe=64B3D9FA"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/357572386_259206753467869_8475832433381874126_n.jpg?stp=cp0_dst-jpg_e15_p112x112_q65&_nc_cat=106&ccb=1-7&_nc_sid=f67be1&_nc_ohc=T6L1qDNnh8gAX-EKvuN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDjI1l_lhVCUD9eHGea8AszCkkPXHId-c1tnewmjhd7KQ&oe=64B3D9FA",
+                  "width": 113,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Palash Dhaki",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 6
+                    },
+                    {
+                      "part": "last",
+                      "offset": 7,
+                      "length": 5
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "833660774468181",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689143014,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "Hi",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV84MzM2NjA3NzQ0NjgxODE="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV84MzM2NjA3NzQ0NjgxODE="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=833660774468181",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "NONE",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            },
+            {
+              "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV81ODIyMjkzNjM5ODUxOTI=",
+              "is_subreply_parent_deleted": false,
+              "feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDFfNTgyMjI5MzYzOTg1MTky",
+                "viewer_feedback_reaction_info": null,
+                "reactors": {
+                  "count": 0
+                },
+                "legacy_api_post_id": "10115186488482141_582229363985192",
+                "top_reactions": {
+                  "edges": []
+                },
+                "viewer_current_actor": {
+                  "__typename": "User",
+                  "strong_id__": "100092534187022",
+                  "id": "100092534187022",
+                  "name": "Lesley Jauregui"
+                },
+                "is_hide_transparency_enabled_for_actor": false,
+                "can_viewer_react": true,
+                "can_viewer_comment": true,
+                "public_conversations_context": {
+                  "comment_vote_ui_version": "NONE",
+                  "upvote_label": null,
+                  "downvote_label": null
+                },
+                "can_viewer_comment_in_private": false,
+                "can_viewer_comment_with_gif": true,
+                "can_viewer_comment_with_photo": true,
+                "can_viewer_comment_with_sticker": true,
+                "can_viewer_comment_with_video": true,
+                "if_viewer_can_comment_with_fact": null,
+                "if_viewer_can_see_voice_switcher": null,
+                "community_qna_show_bottom_sheet": false,
+                "does_viewer_like": false,
+                "viewer_acts_as_page": null,
+                "associated_group": null,
+                "is_community_qa_post": false,
+                "likers": {
+                  "count": 0
+                },
+                "supported_reaction_infos": [
+                  {
+                    "id": "1635855486666999"
+                  },
+                  {
+                    "id": "1678524932434102"
+                  },
+                  {
+                    "id": "613557422527858"
+                  },
+                  {
+                    "id": "115940658764963"
+                  },
+                  {
+                    "id": "478547315650144"
+                  },
+                  {
+                    "id": "908563459236466"
+                  },
+                  {
+                    "id": "444813342392137"
+                  }
+                ],
+                "reactions_dock_message": null,
+                "top_level_comments": {
+                  "count": 0,
+                  "total_count": 0,
+                  "ordering_mode_for_load_more_request": {
+                    "top_level_comment_ordering_mode": "toplevel",
+                    "reply_comment_ordering_mode": "sub_replies"
+                  },
+                  "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null,
+                    "start_cursor": null,
+                    "has_previous_page": false
+                  },
+                  "nodes": []
+                },
+                "feedback_target_type": "COMMENT",
+                "num_comments_to_expand": 0
+              },
+              "author": {
+                "__typename": "User",
+                "strong_id__": "100089174235396",
+                "name": "Jan Anton",
+                "id": "100089174235396",
+                "url": "https://www.facebook.com/profile.php?id=100089174235396",
+                "authorTextProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/352234278_1680002859109530_6473191128124165202_n.jpg?stp=c0.0.112.112a_cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=fwT4wuBZtd4AX8ZAiOq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDqawdcGe5XQ_iPXBPypFmg_tuYA1RDLsISmE9jN7Tk2A&oe=64B3159A"
+                },
+                "short_name": "Jan",
+                "createCommentActorPicProfilePicture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/352234278_1680002859109530_6473191128124165202_n.jpg?stp=c0.0.112.112a_cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=fwT4wuBZtd4AX8ZAiOq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDqawdcGe5XQ_iPXBPypFmg_tuYA1RDLsISmE9jN7Tk2A&oe=64B3159A"
+                },
+                "is_viewer_friend": false,
+                "is_work_user": false,
+                "profile_picture": {
+                  "uri": "https://scontent.ftlv8-1.fna.fbcdn.net/v/t39.30808-1/352234278_1680002859109530_6473191128124165202_n.jpg?stp=c0.0.112.112a_cp0_dst-jpg_e15_p112x112_q65&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=fwT4wuBZtd4AX8ZAiOq&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.ftlv8-1.fna&oh=00_AfDqawdcGe5XQ_iPXBPypFmg_tuYA1RDLsISmE9jN7Tk2A&oe=64B3159A",
+                  "width": 112,
+                  "height": 112
+                },
+                "gender": "MALE",
+                "structured_name": {
+                  "text": "Jan Anton",
+                  "parts": [
+                    {
+                      "part": "first",
+                      "offset": 0,
+                      "length": 3
+                    },
+                    {
+                      "part": "last",
+                      "offset": 4,
+                      "length": 5
+                    }
+                  ],
+                  "locale": null
+                }
+              },
+              "parent_post_story": {
+                "cache_id": "-1082128891928703865",
+                "to": null,
+                "commerceProfileAttachments": [
+                  {
+                    "target": {
+                      "__typename": "Photo",
+                      "strong_id__": "10115186488442221"
+                    }
+                  }
+                ],
+                "actors": [
+                  {
+                    "__typename": "User",
+                    "strong_id__": "4",
+                    "id": "4",
+                    "name": "Mark Zuckerberg",
+                    "short_name": "Mark"
+                  }
+                ],
+                "id": "UzpfSTQ6MTAxMTUxODY0ODg0ODIxNDE6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owner_group": null
+              },
+              "comment_parent": null,
+              "comment_privacy_value": "DEFAULT_PRIVACY",
+              "user_signals_info": null,
+              "group_comment_info": null,
+              "is_featured": false,
+              "legacy_fbid": "582229363985192",
+              "viewer_subscribe_status_to_comment_author": null,
+              "question_and_answer_type": null,
+              "constituent_title": null,
+              "can_see_constituent_badge_upsell": false,
+              "created_time": 1689142894,
+              "parent_feedback": {
+                "id": "ZmVlZGJhY2s6MTAxMTUxODY0ODg0ODIxNDE=",
+                "owning_profile": {
+                  "__typename": "User",
+                  "strong_id__": "4",
+                  "name": "Mark Zuckerberg",
+                  "id": "4",
+                  "short_name": "Mark"
+                },
+                "can_viewer_comment": true,
+                "legacy_api_post_id": "10115186488482141",
+                "can_viewer_comment_as_question": false
+              },
+              "identity_badges": [],
+              "body": {
+                "text": "@juan_and_o.only",
+                "color_ranges": [],
+                "ranges": [],
+                "delight_ranges": []
+              },
+              "spam_display_mode": "none",
+              "body_markdown_html": null,
+              "translatability_for_viewer": {
+                "translation_type": "NO_TRANSLATION"
+              },
+              "private_reply_context": null,
+              "if_viewer_can_see_award_ufi": null,
+              "attachments": [],
+              "is_viewer_comment_poster": false,
+              "can_viewer_edit": false,
+              "text_delights_are_hidden": false,
+              "can_viewer_upvote_downvote": false,
+              "is_declined_by_group_admin_assistant": false,
+              "if_viewer_can_share": null,
+              "can_viewer_delete": false,
+              "if_viewer_can_pin": null,
+              "if_viewer_cannot_pin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV81ODIyMjkzNjM5ODUxOTI="
+              },
+              "if_viewer_can_unpin": null,
+              "if_viewer_cannot_unpin": {
+                "id": "Y29tbWVudDoxMDExNTE4NjQ4ODQ4MjE0MV81ODIyMjkzNjM5ODUxOTI="
+              },
+              "edit_history": {
+                "count": 0
+              },
+              "if_viewer_can_moderate": null,
+              "structured_reporting_enabled": false,
+              "us_structured_reporting_enabled": false,
+              "real_author_for_moderation": null,
+              "followup_actions": [],
+              "url": "https://www.facebook.com/story.php?story_fbid=10115186488482141&id=4&post_id=4_10115186488482141&comment_id=582229363985192",
+              "threaded_parent_comment_ids": [],
+              "comment_attachment_type": "NONE",
+              "reply_parent_comment": null,
+              "upvote_downvote_total": 0,
+              "viewer_comment_vote_state": "NONE",
+              "interesting_replies": {
+                "count": 0,
+                "nodes": []
+              },
+              "surround_comment_ntview": null,
+              "depth": 0
+            }
+          ],
+          "page_info": {
+            "has_next_page": true,
+            "end_cursor": "AQHRCF-nrF8yk9_Es4pRUoLTpjxoyZmJIE0Mz6SM0BMm2v19mXD7qyqnoXJcgd5CrTsPrOgBh7W4ZzkPbopLLNMCTA",
+            "start_cursor": "AQHR85GWrsMIfsoJ2rRV_u6hmn8-slaeUqDaP45tQF0Pq0UGnHerBme8CiKrUokZLb2KJ9Tmc0vw6OEDRgnmokmwyA",
+            "has_previous_page": false
+          }
+        },
+        "num_comments_to_expand": 0,
+        "threading_config": {
+          "__typename": "FullThreadingFeedbackConfig",
+          "strong_id__": null,
+          "threaded_lines_enabled": true,
+          "curved_lines_enabled": true,
+          "grouped_replies_indentation_enabled": true,
+          "hide_lines_if_no_children": true,
+          "should_render_nested_sections": true,
+          "max_depth": 2,
+          "auto_expand_shorter_thread_for_children_less_than": 4,
+          "auto_expand_shorter_thread_from_depth": 1,
+          "should_auto_expand_shorter_threads": true,
+          "fb4a_top_level_view_lines_enabled": true,
+          "max_num_comments_to_auto_expand": [
+            0,
+            3
+          ],
+          "max_num_comments_to_auto_expand_for_focused_thread": 10,
+          "fb4a_show_view_more_reply_preview_pager": true,
+          "fb4a_show_unfocused_reply_view_on_tapping_reply_preview": false,
+          "fb4a_infinite_scroll_on_reply_view": true,
+          "fb4a_enable_fake_reply_composer": true,
+          "fb4a_show_pager_comment_count": true,
+          "fake_composer_num_replies_threshold_for_showing": 1,
+          "use_feedback_expansion_param": false
+        },
+        "reshares": {
+          "count": 32167
+        },
+        "should_show_as_fishbowl_post": false,
+        "viewer_fishbowl_role": null,
+        "message_action": null,
+        "if_viewer_can_see_seen_by_member_list": null,
+        "can_viewer_see_community_award_button_in_post_ufi": null,
+        "disable_comment_replies_nux_component": null,
+        "nt_stars_education_card_view": null,
+        "should_show_stars_comment_card": false,
+        "early_access_comment_footer_string": null,
+        "can_viewer_comment_with_photo": true,
+        "can_viewer_comment_with_sticker": true,
+        "if_viewer_can_comment_with_fact": null,
+        "can_viewer_comment_with_gif": true,
+        "can_viewer_comment_with_music": false,
+        "can_viewer_comment_with_music_no_user_qe_check": false,
+        "if_viewer_can_meme_remix": null,
+        "can_viewer_see_community_award_feature": null,
+        "can_viewer_comment_with_stars": false,
+        "if_viewer_can_see_standards_in_comments_banner": null,
+        "if_viewer_can_see_comment_education_banner": null
+      },
+      "insights": null,
+      "post_insights": null,
+      "pages_post_level_insights_qe": 0,
+      "promotion_info": null,
+      "post_promotion_info": null,
+      "story_promotions_info": {
+        "promotions": {
+          "count": 0,
+          "edges": []
+        },
+        "promotions_carousel_native_template_view": null
+      },
+      "attached_story": null,
+      "attached_story_render_style": "DEFAULT",
+      "all_substories": {
+        "remaining_count": 0,
+        "nodes": [],
+        "page_info": null
+      },
+      "wwwURL": "https://www.facebook.com/4/posts/10115186488482141/"
+    }
+  },
+  "extensions": {
+    "fulfilled_payloads": [
+      {
+        "label": "NegativeFeedbackActionsFragment",
+        "path": [
+          "node"
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          0
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          0
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          0
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          1
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          1
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          1
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          2
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          2
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          2
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          3
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          3
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          3
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          4
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          4
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          4
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          5
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          5
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          5
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          6
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          6
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          6
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          7
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          7
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          7
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          8
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          8
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          8
+        ]
+      },
+      {
+        "label": "DelightsStoryCanViewerEditTextDelightsForCommentGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          9
+        ]
+      },
+      {
+        "label": "CommentSecondaryActionsGraphQL",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          9
+        ]
+      },
+      {
+        "label": "GroupDisableCommentRepliesFragment",
+        "path": [
+          "node",
+          "feedback",
+          "top_level_comments",
+          "nodes",
+          9
+        ]
+      }
+    ],
+    "server_metadata": {
+      "request_start_time_ms": 1689150705804,
+      "time_at_flush_ms": 1689150706080
+    },
+    "is_final": true
+  }
+}

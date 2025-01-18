@@ -1,0 +1,89 @@
+{
+    "id": "111774983643968115",
+    "created_at": "2024-01-18T04:08:07.000Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mathstodon.xyz/users/gregeganSF/statuses/111774982984248052",
+    "url": "https://mathstodon.xyz/@gregeganSF/111774982984248052",
+    "replies_count": 3,
+    "reblogs_count": 2,
+    "favourites_count": 1,
+    "edited_at": null,
+    "content": "<p>Me: Of course I\u2019m not stupid enough to deliberately pour bleach onto metal!</p><p>Also me: Leaves a bottle of bleach on the floor, and fails to notice that it\u2019s sprung a minuscule leak until a nearby drain is coated in cupric chloride.</p>",
+    "reblog": null,
+    "account": {
+        "id": "109273356721942420",
+        "username": "gregeganSF",
+        "acct": "gregeganSF@mathstodon.xyz",
+        "display_name": "Greg Egan",
+        "locked": false,
+        "bot": false,
+        "discoverable": true,
+        "group": false,
+        "created_at": "2022-10-28T00:00:00.000Z",
+        "note": "<p>I am a science fiction writer and computer programmer.<br>Latest novel: SCALE.<br>Latest collection: SLEEP AND THE SOUL.<br>Web site: gregegan.net</p>",
+        "url": "https://mathstodon.xyz/@gregeganSF",
+        "uri": "https://mathstodon.xyz/users/gregeganSF",
+        "avatar": "https://cdn.masto.host/mastodongamedevplace/cache/accounts/avatars/109/273/356/721/942/420/original/d9a41a9ad4cd4229.jpg",
+        "avatar_static": "https://cdn.masto.host/mastodongamedevplace/cache/accounts/avatars/109/273/356/721/942/420/original/d9a41a9ad4cd4229.jpg",
+        "header": "https://cdn.masto.host/mastodongamedevplace/cache/accounts/headers/109/273/356/721/942/420/original/d7ead72123105f11.jpeg",
+        "header_static": "https://cdn.masto.host/mastodongamedevplace/cache/accounts/headers/109/273/356/721/942/420/original/d7ead72123105f11.jpeg",
+        "followers_count": 6373,
+        "following_count": 320,
+        "statuses_count": 1351,
+        "last_status_at": "2024-01-18",
+        "emojis": [],
+        "fields": [
+            {
+                "name": "Web site",
+                "value": "<a href=\"https://www.gregegan.net\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">gregegan.net</span><span class=\"invisible\"></span></a>",
+                "verified_at": "2024-01-12T09:52:49.886+00:00"
+            },
+            {
+                "name": "Location",
+                "value": "Perth, Western Australia",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [
+        {
+            "id": "111774983176803321",
+            "type": "image",
+            "url": "https://cdn.masto.host/mastodongamedevplace/cache/media_attachments/files/111/774/983/176/803/321/original/246ea0c121a062a4.jpg",
+            "preview_url": "https://cdn.masto.host/mastodongamedevplace/cache/media_attachments/files/111/774/983/176/803/321/small/246ea0c121a062a4.jpg",
+            "remote_url": "https://media.mathstodon.xyz/media_attachments/files/111/774/978/279/611/284/original/9e360832d9087b2e.jpg",
+            "preview_remote_url": null,
+            "text_url": null,
+            "meta": {
+                "focus": {
+                    "x": 0.0,
+                    "y": 0.0
+                },
+                "original": {
+                    "width": 3325,
+                    "height": 2494,
+                    "size": "3325x2494",
+                    "aspect": 1.3331996792301524
+                },
+                "small": {
+                    "width": 554,
+                    "height": 416,
+                    "size": "554x416",
+                    "aspect": 1.3317307692307692
+                }
+            },
+            "description": "A circular metal drain in a tiled floor, partly covered in blue-green crystals.",
+            "blurhash": "UKK1aXIo~VbbE3Rkn%kCxaWBE1s:jFWBNGjY"
+        }
+    ],
+    "mentions": [],
+    "tags": [],
+    "emojis": [],
+    "card": null,
+    "poll": null
+}

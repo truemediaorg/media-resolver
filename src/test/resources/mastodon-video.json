@@ -1,0 +1,131 @@
+{
+    "id": "111761734459219936",
+    "created_at": "2024-01-15T19:58:51.377Z",
+    "in_reply_to_id": null,
+    "in_reply_to_account_id": null,
+    "sensitive": false,
+    "spoiler_text": "",
+    "visibility": "public",
+    "language": "en",
+    "uri": "https://mastodon.online/users/GregPalast/statuses/111761734459219936",
+    "url": "https://mastodon.online/@GregPalast/111761734459219936",
+    "replies_count": 0,
+    "reblogs_count": 11,
+    "favourites_count": 14,
+    "edited_at": null,
+    "content": "<p>In a world which celebrates righteous violence, of storming capitols, kidnappings, beheadings, of intoxicating hatreds, we so easily dismiss the difficult wisdom of the man Martin Luther King called his \u201cguiding light,\u201d Mohandas Gandhi, that freedom won by the blood of others is freedom not worth having. And it is not freedom.  <a href=\"https://mastodon.online/tags/MLKDay2024\" class=\"mention hashtag\" rel=\"tag\">#<span>MLKDay2024</span></a></p><p>In honor of <a href=\"https://mastodon.online/tags/MLKDay\" class=\"mention hashtag\" rel=\"tag\">#<span>MLKDay</span></a>, we are making our film The Best Democracy Money Can Buy available as a FREE DOWNLOAD (or with a donation): <a href=\"https://www.gregpalast.com/best-democracy-free-or-donate/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">gregpalast.com/best-democracy-</span><span class=\"invisible\">free-or-donate/</span></a></p>",
+    "reblog": null,
+    "application": {
+        "name": "Web",
+        "website": null
+    },
+    "account": {
+        "id": "109295804973383616",
+        "username": "GregPalast",
+        "acct": "GregPalast",
+        "display_name": "GregPalast",
+        "locked": false,
+        "bot": false,
+        "discoverable": false,
+        "indexable": false,
+        "group": false,
+        "created_at": "2022-11-06T00:00:00.000Z",
+        "note": "<p>Investigative journalist and author of the NY Times bestsellers Armed Madhouse + The Best Democracy Money Can Buy. Catch my reports at: <a href=\"http://GregPalast.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">GregPalast.com</span><span class=\"invisible\"></span></a></p><p>Watch my new documentary, Vigilante: Georgia\u2019s Voter Suppression Hitman \u2014 narrated by Rosario Dawson \u2014 which exposes the most brazen, racist attack on voting rights yet: <a href=\"http://vigilantemovie.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">vigilantemovie.com</span><span class=\"invisible\"></span></a></p>",
+        "url": "https://mastodon.online/@GregPalast",
+        "uri": "https://mastodon.online/users/GregPalast",
+        "avatar": "https://files.mastodon.online/accounts/avatars/109/295/804/973/383/616/original/d0f44c08e00f87a9.jpeg",
+        "avatar_static": "https://files.mastodon.online/accounts/avatars/109/295/804/973/383/616/original/d0f44c08e00f87a9.jpeg",
+        "header": "https://files.mastodon.online/accounts/headers/109/295/804/973/383/616/original/045f786a8bb5828a.jpg",
+        "header_static": "https://files.mastodon.online/accounts/headers/109/295/804/973/383/616/original/045f786a8bb5828a.jpg",
+        "followers_count": 2355,
+        "following_count": 455,
+        "statuses_count": 238,
+        "last_status_at": "2024-01-17",
+        "hide_collections": false,
+        "noindex": false,
+        "emojis": [],
+        "roles": [],
+        "fields": [
+            {
+                "name": "GregPalast.com",
+                "value": "<a href=\"https://www.gregpalast.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://www.</span><span class=\"\">gregpalast.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "VigilanteMovie.com",
+                "value": "<a href=\"http://vigilantemovie.com\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://</span><span class=\"\">vigilantemovie.com</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "PalastInvestigativeFund.org",
+                "value": "<a href=\"http://www.palastinvestigativefund.org\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">http://www.</span><span class=\"\">palastinvestigativefund.org</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            },
+            {
+                "name": "Podcast",
+                "value": "<a href=\"https://gregpalast.podbean.com/\" target=\"_blank\" rel=\"nofollow noopener noreferrer me\" translate=\"no\"><span class=\"invisible\">https://</span><span class=\"\">gregpalast.podbean.com/</span><span class=\"invisible\"></span></a>",
+                "verified_at": null
+            }
+        ]
+    },
+    "media_attachments": [
+        {
+            "id": "111761732971959771",
+            "type": "video",
+            "url": "https://files.mastodon.online/media_attachments/files/111/761/732/971/959/771/original/2b5fda785a84f77d.mp4",
+            "preview_url": "https://files.mastodon.online/media_attachments/files/111/761/732/971/959/771/small/2b5fda785a84f77d.png",
+            "remote_url": null,
+            "preview_remote_url": null,
+            "text_url": null,
+            "meta": {
+                "original": {
+                    "width": 558,
+                    "height": 338,
+                    "frame_rate": "25/1",
+                    "duration": 105.2,
+                    "bitrate": 1362766
+                },
+                "small": {
+                    "width": 558,
+                    "height": 338,
+                    "size": "558x338",
+                    "aspect": 1.650887573964497
+                }
+            },
+            "description": null,
+            "blurhash": "UDGbL_o~Rl^+VrI=%Mxa01M|oyV@WARjbFWB"
+        }
+    ],
+    "mentions": [],
+    "tags": [
+        {
+            "name": "mlkday2024",
+            "url": "https://mastodon.online/tags/mlkday2024"
+        },
+        {
+            "name": "mlkday",
+            "url": "https://mastodon.online/tags/mlkday"
+        }
+    ],
+    "emojis": [],
+    "card": {
+        "url": "https://www.gregpalast.com/best-democracy-free-or-donate/",
+        "title": "Palast's Best Democracy Movie Free Download",
+        "description": "Download The Best Democracy Money Can Buy for FREE or a donation to support our work.",
+        "language": "en",
+        "type": "link",
+        "author_name": "",
+        "author_url": "",
+        "provider_name": "Greg Palast",
+        "provider_url": "",
+        "html": "",
+        "width": 1200,
+        "height": 630,
+        "image": "https://files.mastodon.online/cache/preview_cards/images/026/396/291/original/48e0f4238b533825.jpg",
+        "image_description": "",
+        "embed_url": "",
+        "blurhash": "UXI#P60p5axtDkROs8jY0koy?CjYs9f8jbR.",
+        "published_at": null
+    },
+    "poll": null
+}

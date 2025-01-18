@@ -1,0 +1,211 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Description: "A generic service: server Docker image and HTTP/HTTPS routed to it via load balancer."
+Parameters:
+  NetworkStackName:
+    Type: String
+    Default: OPEN-TODO-PLACEHOLDER
+    Description:
+      The name of the parent Fargate networking stack that you created. Necessary
+      to locate and reference resources created by that stack.
+  ImageId:
+    Type: String
+    Default: mediares
+    Description: The identifier of the Docker image for the service.
+  HostHeader:
+    Type: String
+    Default: OPEN-TODO-PLACEHOLDER
+    Description: The hostname that will route requests to the service.
+  PathPattern:
+    Type: String
+    Default: "mediares/*"
+    Description: The path that will route requests to the service.
+  ContainerCpu:
+    Type: Number
+    Default: 256
+    Description: How much CPU to give the container. 1024 is 1 CPU
+  ContainerMemory:
+    Type: Number
+    Default: 512
+    Description: How much memory in megabytes to give the container
+  Priority:
+    Type: Number
+    Default: 1
+    Description: The priority for the routing rule added to the load balancer.
+  DesiredCount:
+    Type: Number
+    Default: 1
+    Description: How many copies of the service task to run.
+  LogRetentionDays:
+    Type: Number
+    Default: 3
+    Description: The number of days to retain logs for the service.
+
+Resources:
+  # A log group where logs are sent from the service.
+  LogGroup:
+    Type: AWS::Logs::LogGroup
+    Properties:
+      LogGroupName: !Ref AWS::StackName
+      RetentionInDays: !Ref "LogRetentionDays"
+
+  # This is a role which is used by the media ECS task.
+  ECSTaskRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Join ["", [!Ref ImageId, TaskRole]]
+      AssumeRolePolicyDocument:
+        Statement:
+          - Effect: Allow
+            Principal:
+              Service: [ecs-tasks.amazonaws.com]
+            Action: ["sts:AssumeRole"]
+      Path: /
+      Policies:
+        # Allow the mediares task to access S3 deepfake-media bucket
+        - PolicyName: MediaResECSTaskRolePolicy
+          PolicyDocument:
+            Statement:
+              - Effect: Allow
+                Action:
+                  - "s3:GetObject"
+                  - "s3:GetObjectAcl"
+                  - "s3:PutObject"
+                  - "s3:PutObjectAcl"
+                  - "s3:DeleteObject"
+                Resource: "arn:aws:s3:::OPEN-TODO-PLACEHOLDER-deepfake-media/*"
+              - Effect: Allow
+                Action:
+                  - "s3:ListBucket"
+                Resource: "arn:aws:s3:::OPEN-TODO-PLACEHOLDER-deepfake-media"
+
+  # The task definition. This is a simple metadata description of what
+  # container to run, and what resource requirements it has.
+  TaskDefinition:
+    Type: AWS::ECS::TaskDefinition
+    DependsOn: LogGroup
+    Properties:
+      Family: !Ref AWS::StackName
+      Cpu: !Ref "ContainerCpu"
+      Memory: !Ref "ContainerMemory"
+      NetworkMode: awsvpc
+      RequiresCompatibilities:
+        - FARGATE
+      ExecutionRoleArn:
+        Fn::ImportValue:
+          !Join [":", [!Ref "NetworkStackName", "ECSTaskExecutionRole"]]
+      TaskRoleArn: !Ref "ECSTaskRole"
+      ContainerDefinitions:
+        - Name: !Ref AWS::StackName
+          Cpu: !Ref "ContainerCpu"
+          Memory: !Ref "ContainerMemory"
+          Image:
+            !Join [
+              "",
+              [
+                "OPEN-TODO-PLACEHOLDER.dkr.ecr.us-east-2.amazonaws.com/OPEN-TODO-PLACEHOLDER/",
+                !Ref "ImageId",
+              ],
+            ]
+          PortMappings:
+            - ContainerPort: 8080
+          LogConfiguration:
+            LogDriver: awslogs
+            Options:
+              awslogs-group: !Ref "LogGroup"
+              awslogs-region: !Ref AWS::Region
+              awslogs-stream-prefix: ecs
+          Secrets:
+            - Name: SECRETS
+              ValueFrom: "arn:aws:secretsmanager:us-east-2:OPEN-TODO-PLACEHOLDER:secret:OPEN-TODO-PLACEHOLDER"
+
+  # The service. The service is a resource which allows you to run multiple
+  # copies of a type of task, and gather up their logs and metrics, as well
+  # as monitor the number of running tasks and replace any that have crashed
+  Service:
+    Type: AWS::ECS::Service
+    DependsOn:
+      - LoadBalancerRule
+      - LoadBalancerSecureRule
+    Properties:
+      ServiceName: !Ref AWS::StackName
+      Cluster:
+        Fn::ImportValue: !Join [":", [!Ref "NetworkStackName", "ClusterName"]]
+      LaunchType: FARGATE
+      DeploymentConfiguration:
+        MaximumPercent: 200
+        MinimumHealthyPercent: 75
+      DesiredCount: !Ref "DesiredCount"
+      NetworkConfiguration:
+        AwsvpcConfiguration:
+          AssignPublicIp: ENABLED
+          SecurityGroups:
+            - Fn::ImportValue:
+                !Join [
+                  ":",
+                  [!Ref "NetworkStackName", "FargateContainerSecurityGroup"],
+                ]
+          Subnets:
+            - Fn::ImportValue:
+                !Join [":", [!Ref "NetworkStackName", "PublicSubnetOne"]]
+            - Fn::ImportValue:
+                !Join [":", [!Ref "NetworkStackName", "PublicSubnetTwo"]]
+      TaskDefinition: !Ref "TaskDefinition"
+      LoadBalancers:
+        - ContainerName: !Ref AWS::StackName
+          ContainerPort: 8080
+          TargetGroupArn: !Ref "TargetGroup"
+
+  # A target group. This is used for keeping track of all the tasks, and
+  # what IP addresses / port numbers they have. You can query it yourself,
+  # to use the addresses yourself, but most often this target group is just
+  # connected to an application load balancer, or network load balancer, so
+  # it can automatically distribute traffic across all the targets.
+  TargetGroup:
+    Type: AWS::ElasticLoadBalancingV2::TargetGroup
+    Properties:
+      HealthCheckIntervalSeconds: 6
+      HealthCheckPath: /
+      HealthCheckProtocol: HTTP
+      HealthCheckTimeoutSeconds: 5
+      HealthyThresholdCount: 2
+      TargetType: ip
+      Name: !Ref AWS::StackName
+      Port: 8080
+      Protocol: HTTP
+      UnhealthyThresholdCount: 2
+      VpcId:
+        Fn::ImportValue: !Join [":", [!Ref "NetworkStackName", "VPCId"]]
+
+  # Create a rule on the load balancer for routing HTTP traffic to the target group
+  LoadBalancerRule:
+    Type: AWS::ElasticLoadBalancingV2::ListenerRule
+    Properties:
+      Actions:
+        - TargetGroupArn: !Ref "TargetGroup"
+          Type: "forward"
+      Conditions:
+        - Field: host-header
+          Values: [!Ref "HostHeader"]
+        - Field: path-pattern
+          Values: [!Join ["", ["/", !Ref "PathPattern"]]]
+      ListenerArn:
+        Fn::ImportValue:
+          !Join [":", [!Ref "NetworkStackName", "PublicListener"]]
+      Priority: !Ref "Priority"
+
+  # Create a rule on the load balancer for routing HTTPS traffic to the target group
+  LoadBalancerSecureRule:
+    Type: AWS::ElasticLoadBalancingV2::ListenerRule
+    Properties:
+      Actions:
+        - TargetGroupArn: !Ref "TargetGroup"
+          Type: "forward"
+      Conditions:
+        - Field: host-header
+          Values: [!Ref "HostHeader"]
+        - Field: path-pattern
+          Values: [!Join ["", ["/", !Ref "PathPattern"]]]
+      ListenerArn:
+        Fn::ImportValue:
+          !Join [":", [!Ref "NetworkStackName", "PublicSecureListener"]]
+      Priority: !Ref "Priority"

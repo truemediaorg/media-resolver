@@ -1,0 +1,16 @@
+{
+  "status": 200,
+  "result": {
+    "type": "image",
+    "author": {
+      "nickname": "Brittany | Puppy Training"
+    },
+    "images": [
+      "https://p16-sign-va.tiktokcdn.com/tos-maliva-i-photomode-us/3b34a86a45694459b12a37f2400023a2~tplv-photomode-image-v1:q70.jpeg?from=photomode.AWEME_DETAIL&lk3s=d05b14bd&nonce=78085&refresh_token=808fcb65b06461b360b7ff7a8cdde6ed&shcp=-&shp=d05b14bd&x-expires=1720821600&x-signature=QYsG0xGlxmCNvPjaUOdEUkyGG5U%3D",
+      "https://p16-sign-va.tiktokcdn.com/tos-maliva-i-photomode-us/2b05db8ca54c4b18a13c533df26e3762~tplv-photomode-image-v1:q70.jpeg?from=photomode.AWEME_DETAIL&lk3s=d05b14bd&nonce=86728&refresh_token=43ec4ce9d92c9988ff321f5116e04c4a&shcp=-&shp=d05b14bd&x-expires=1720821600&x-signature=j9f3GMTQcnNfuIcM0iMYLYzJFCY%3D",
+      "https://p16-sign-va.tiktokcdn.com/tos-maliva-i-photomode-us/4a271ae1389a4d2d87eef129a764209b~tplv-photomode-image-v1:q70.jpeg?from=photomode.AWEME_DETAIL&lk3s=d05b14bd&nonce=29364&refresh_token=fb5e5d326d59d744d18acc0bb26a4dd1&shcp=-&shp=d05b14bd&x-expires=1720821600&x-signature=oLsNOoNpL7qvhSpEexDaktsyNOw%3D",
+      "https://p16-sign-va.tiktokcdn.com/tos-maliva-i-photomode-us/4e5e78c381a24764a620b9ce0f1d4ace~tplv-photomode-image-v1:q70.jpeg?from=photomode.AWEME_DETAIL&lk3s=d05b14bd&nonce=81947&refresh_token=b9b1b36683053ef52e5763a7422f95bc&shcp=-&shp=d05b14bd&x-expires=1720821600&x-signature=okhYk%2BWSyoSV9zL8pihpf2%2Bmcmk%3D"
+    ],
+    "music": "https://fastdl.muscdn.app/b25lIG1vcmUgbGlnaHQ=/mp3/aHR0cHM6Ly9zZjE2LWllcy1tdXNpYy12YS50aWt0b2tjZG4uY29tL29iai9tdXNpY2FsbHktbWFsaXZhLW9iai83MjA1NjcwMjQ4MTEzMjI4NTQ5Lm1wMw=="
+  }
+}

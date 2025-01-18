@@ -1,0 +1,171 @@
+{
+    "kind": "Listing",
+    "data": {
+        "after": null,
+        "dist": 1,
+        "modhash": "",
+        "geo_filter": "",
+        "children": [
+            {
+                "kind": "t3",
+                "data": {
+                    "approved_at_utc": null,
+                    "subreddit": "mildlyinteresting",
+                    "selftext": "",
+                    "author_fullname": "t2_7wpgm3dw",
+                    "saved": false,
+                    "mod_reason_title": null,
+                    "gilded": 0,
+                    "clicked": false,
+                    "title": "I boiled down 5 gallons of seawater and this all the salt.",
+                    "link_flair_richtext": [],
+                    "subreddit_name_prefixed": "r/mildlyinteresting",
+                    "hidden": false,
+                    "pwls": 6,
+                    "link_flair_css_class": null,
+                    "downs": 0,
+                    "thumbnail_height": 105,
+                    "top_awarded_type": null,
+                    "hide_score": false,
+                    "name": "t3_192n27s",
+                    "quarantine": false,
+                    "link_flair_text_color": "dark",
+                    "upvote_ratio": 0.96,
+                    "author_flair_background_color": null,
+                    "subreddit_type": "public",
+                    "ups": 11420,
+                    "total_awards_received": 0,
+                    "media_embed": {},
+                    "thumbnail_width": 140,
+                    "author_flair_template_id": null,
+                    "is_original_content": true,
+                    "user_reports": [],
+                    "secure_media": null,
+                    "is_reddit_media_domain": true,
+                    "is_meta": false,
+                    "category": null,
+                    "secure_media_embed": {},
+                    "link_flair_text": null,
+                    "can_mod_post": false,
+                    "score": 11420,
+                    "approved_by": null,
+                    "is_created_from_ads_ui": false,
+                    "author_premium": false,
+                    "thumbnail": "https://b.thumbs.redditmedia.com/e5qY_RcKH00roYuO2oqnrLrZMmoVIR0LEh2r4J6zx8k.jpg",
+                    "edited": false,
+                    "author_flair_css_class": null,
+                    "author_flair_richtext": [],
+                    "gildings": {},
+                    "post_hint": "image",
+                    "content_categories": null,
+                    "is_self": false,
+                    "mod_note": null,
+                    "created": 1704828261.0,
+                    "link_flair_type": "text",
+                    "wls": 6,
+                    "removed_by_category": null,
+                    "banned_by": null,
+                    "author_flair_type": "text",
+                    "domain": "i.redd.it",
+                    "allow_live_comments": true,
+                    "selftext_html": null,
+                    "likes": null,
+                    "suggested_sort": null,
+                    "banned_at_utc": null,
+                    "url_overridden_by_dest": "https://i.redd.it/jslnz8aptgbc1.jpeg",
+                    "view_count": null,
+                    "archived": false,
+                    "no_follow": false,
+                    "is_crosspostable": false,
+                    "pinned": false,
+                    "over_18": false,
+                    "preview": {
+                        "images": [
+                            {
+                                "source": {
+                                    "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?auto=webp&amp;s=3676381d7b47d1ab76b770cbce7bb667e43f1000",
+                                    "width": 4032,
+                                    "height": 3024
+                                },
+                                "resolutions": [
+                                    {
+                                        "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?width=108&amp;crop=smart&amp;auto=webp&amp;s=5a3d97af0190c705ce6e2abe6b637a8843132d16",
+                                        "width": 108,
+                                        "height": 81
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6cd10d823297d5e327931c246fd0306166d97dcf",
+                                        "width": 216,
+                                        "height": 162
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=15120f8ad3d0e186603de8a9b20f81fb2d40edbf",
+                                        "width": 320,
+                                        "height": 240
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fb4fca883ac1b7a34ea68788c15f7a280424809b",
+                                        "width": 640,
+                                        "height": 480
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?width=960&amp;crop=smart&amp;auto=webp&amp;s=5b44e7e20d3785be93d5bc129e9c79f982f1cad6",
+                                        "width": 960,
+                                        "height": 720
+                                    },
+                                    {
+                                        "url": "https://preview.redd.it/jslnz8aptgbc1.jpeg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=58b97bdc52bc04ff26d70c2d1866f1b480ce6ddc",
+                                        "width": 1080,
+                                        "height": 810
+                                    }
+                                ],
+                                "variants": {},
+                                "id": "4VggGQcz0sIKapTPS4zlb8IOwFgEz-rzure6wT-NpFs"
+                            }
+                        ],
+                        "enabled": true
+                    },
+                    "all_awardings": [],
+                    "awarders": [],
+                    "media_only": false,
+                    "can_gild": false,
+                    "spoiler": false,
+                    "locked": false,
+                    "author_flair_text": null,
+                    "treatment_tags": [],
+                    "visited": false,
+                    "removed_by": null,
+                    "num_reports": null,
+                    "distinguished": null,
+                    "subreddit_id": "t5_2ti4h",
+                    "author_is_blocked": false,
+                    "mod_reason_by": null,
+                    "removal_reason": null,
+                    "link_flair_background_color": "",
+                    "id": "192n27s",
+                    "is_robot_indexable": true,
+                    "report_reasons": null,
+                    "author": "jefpatnat",
+                    "discussion_type": null,
+                    "num_comments": 968,
+                    "send_replies": true,
+                    "whitelist_status": "all_ads",
+                    "contest_mode": false,
+                    "mod_reports": [],
+                    "author_patreon_flair": false,
+                    "author_flair_text_color": null,
+                    "permalink": "/r/mildlyinteresting/comments/192n27s/i_boiled_down_5_gallons_of_seawater_and_this_all/",
+                    "parent_whitelist_status": "all_ads",
+                    "stickied": false,
+                    "url": "https://i.redd.it/jslnz8aptgbc1.jpeg",
+                    "subreddit_subscribers": 22884539,
+                    "created_utc": 1704828261.0,
+                    "num_crossposts": 2,
+                    "media": null,
+                    "is_video": false
+                }
+            }
+        ],
+        "before": null
+    }
+}
