@@ -3,11 +3,13 @@
 
 # Media URL Resolver
 
-This service is required by the [TrueMedia.org web application](https://github.com/truemediaorg/deepfake-app).
-
 This microservice accepts a social media post URL and attempts to extract any media URLs that are
 contained therein. Those media URLs can then be sent along to deepfake detection partners or TrueMedia.org's own deepfake detection services to be checked, and the partners and services need not concern
 themselves with extracting media URLs themselves.
+
+This service was developed by [TrueMedia.org](https://www.truemedia.org/), a non-profit service that detects deepfakes in social media. The service is required by the [TrueMedia.org web application](https://github.com/truemediaorg/deepfake-app).
+
+[![TrueMedia.org video](https://raw.githubusercontent.com/truemediaorg/.github/main/profile/video-splash.png)](https://www.youtube.com/watch?v=-6l7Jg02C8E)
 
 Currently we support:
 
